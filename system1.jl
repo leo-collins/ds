@@ -21,7 +21,7 @@ end
 opinion(u, p) = opinion!(similar(u), u, p, 0)
 
 par = (a=-1.1, b=-2.0, c=1.0, d=1.0, α=1.0, ϵ=0.01, θ=0.5)
-u₀ = [0.5, 1.0, 0.2]
+u₀ = [0.0, 0.0, 0.0]
         
 recordFromSolutionOp(x, p) = (X=x[1], Y=x[2], A=x[3])
 prob = BifurcationProblem(opinion, u₀, par, (@lens _.θ);
@@ -32,6 +32,10 @@ opt_newton = NewtonPar(tol=1e-9, maxIter=200)
 opts_br = ContinuationPar(pMin=0.0, pMax=1.0, dsmin=0.0002, dsmax=0.015, 
     nInversion=6, maxBisectionSteps=25, maxSteps=200, detectBifurcation=3, newtonOptions=opt_newton, nev=10)
 
-br = continuation(prob, PALC(), opts_br; bothside=true, normC=norminf)
+# br = continuation(prob, PALC(), opts_br; bothside=true, normC=norminf)
 
-scene = plot(br, vars=(:param, :A))
+diagram = bifurcationdiagram(prob, PALC(), 2, (args...) -> setproperties(opts_br); bothside=true)
+
+# scene = plot(br, vars=(:param, :A))
+
+plot(diagram, vars=(:param, :A))
