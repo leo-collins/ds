@@ -1,0 +1,2686 @@
+   3     1         Hopf Function:  -1.03945E+00
+
+   3     1         Eigenvalues  :   Stable:   3
+   3     1         Eigenvalue  1:  -2.15897E-06   0.00000E+00
+   3     1         Eigenvalue  2:  -1.03945E+00  -9.24433E-01
+   3     1         Eigenvalue  3:  -1.03945E+00   9.24433E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     1        0   1.13452E+00   5.19192E-01   8.55532E-02   4.79610E-01   1.79484E-01   5.00000E-01   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     2   0        1.14364E+00   5.21407E-01
+   3     2   1        1.14364E+00   5.21403E-01
+   3     2   2        1.14364E+00   5.21403E-01
+
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     2   0        1.15277E+00   5.23616E-01
+   3     2   1        1.15279E+00   5.23608E-01
+   3     2   2        1.15279E+00   5.23608E-01
+
+   3     2         Fold Function:   9.14845E-01
+   3     2         BP   Function:  -3.80765E+01
+   3     2         Cusp Function:  -1.07927E+00
+   3     2         BT   Function:  -5.83700E-01
+   3     2         Hopf Function:  -1.03993E+00
+
+   3     2         Eigenvalues  :   Stable:   3
+   3     2         Eigenvalue  1:  -4.49528E-11   0.00000E+00
+   3     2         Eigenvalue  2:  -1.03993E+00  -9.28849E-01
+   3     2         Eigenvalue  3:  -1.03993E+00   9.28849E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     2        0   1.15279E+00   5.23608E-01   8.50723E-02   4.84242E-01   1.80104E-01   5.04334E-01   2.50000E-01   4.00000E+00
+
+   3     1         Iterations   :   2
+   3     1         Next Step    :   1.50000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     3   0        1.16650E+00   5.26918E-01
+   3     3   1        1.16652E+00   5.26904E-01
+   3     3   2        1.16652E+00   5.26904E-01
+
+   3     3         Fold Function:   9.16847E-01
+   3     3         BP   Function:  -3.88008E+01
+   3     3         Cusp Function:  -1.07937E+00
+   3     3         BT   Function:  -5.80647E-01
+   3     3         Hopf Function:  -1.04028E+00
+
+   3     3         Eigenvalues  :   Stable:   3
+   3     3         Eigenvalue  1:  -1.60734E-10   0.00000E+00
+   3     3         Eigenvalue  2:  -1.04028E+00  -9.32169E-01
+   3     3         Eigenvalue  3:  -1.04028E+00   9.32169E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     3        0   1.16652E+00   5.26904E-01   8.47220E-02   4.87693E-01   1.80572E-01   5.07568E-01   2.50000E-01   4.00000E+00
+
+   3     2         Iterations   :   2
+   3     2         Next Step    :   2.25000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     4   0        1.18713E+00   5.31853E-01
+   3     4   1        1.18718E+00   5.31821E-01
+   3     4   2        1.18718E+00   5.31821E-01
+
+   3     4         Fold Function:   9.19553E-01
+   3     4         BP   Function:  -3.98631E+01
+   3     4         Cusp Function:  -1.07915E+00
+   3     4         BT   Function:  -5.76162E-01
+   3     4         Hopf Function:  -1.04079E+00
+
+   3     4         Eigenvalues  :   Stable:   3
+   3     4         Eigenvalue  1:   2.14403E-10   0.00000E+00
+   3     4         Eigenvalue  2:  -1.04079E+00  -9.37164E-01
+   3     4         Eigenvalue  3:  -1.04079E+00   9.37164E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     4        0   1.18718E+00   5.31821E-01   8.42132E-02   4.92829E-01   1.81277E-01   5.12390E-01   2.50000E-01   4.00000E+00
+
+   3     3         Iterations   :   2
+   3     3         Next Step    :   3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     5   0        1.21817E+00   5.39207E-01
+   3     5   1        1.21828E+00   5.39138E-01
+   3     5   2        1.21828E+00   5.39137E-01
+
+   3     5         Fold Function:   9.23374E-01
+   3     5         BP   Function:  -4.15560E+01
+   3     5         Cusp Function:  -1.07659E+00
+   3     5         BT   Function:  -5.69641E-01
+   3     5         Hopf Function:  -1.04152E+00
+
+   3     5         Eigenvalues  :   Stable:   3
+   3     5         Eigenvalue  1:   2.73563E-10   0.00000E+00
+   3     5         Eigenvalue  2:  -1.04152E+00  -9.44679E-01
+   3     5         Eigenvalue  3:  -1.04152E+00   9.44679E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     5        0   1.21828E+00   5.39137E-01   8.34850E-02   5.00450E-01   1.82343E-01   5.19562E-01   2.50000E-01   4.00000E+00
+
+   3     4         Iterations   :   2
+   3     4         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     6   0        1.26493E+00   5.50132E-01
+   3     6   1        1.26517E+00   5.49978E-01
+   3     6   2        1.26516E+00   5.49977E-01
+   3     6   3        1.26516E+00   5.49977E-01
+
+   3     6         Fold Function:   9.28565E-01
+   3     6         BP   Function:  -4.41134E+01
+   3     6         Cusp Function:  -1.07786E+00
+   3     6         BT   Function:  -5.60302E-01
+   3     6         Hopf Function:  -1.04253E+00
+
+   3     6         Eigenvalues  :   Stable:   3
+   3     6         Eigenvalue  1:   2.29808E-10   0.00000E+00
+   3     6         Eigenvalue  2:  -1.04253E+00  -9.55990E-01
+   3     6         Eigenvalue  3:  -1.04253E+00   9.55990E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     6        0   1.26516E+00   5.49977E-01   8.24653E-02   5.11697E-01   1.83959E-01   5.30181E-01   2.50000E-01   4.00000E+00
+
+   3     5         Iterations   :   3
+   3     5         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     7   0        1.31204E+00   5.60840E-01
+   3     7   1        1.31230E+00   5.60660E-01
+   3     7   2        1.31229E+00   5.60658E-01
+   3     7   3        1.31229E+00   5.60658E-01
+
+   3     7         Fold Function:   9.33118E-01
+   3     7         BP   Function:  -4.67066E+01
+   3     7         Cusp Function:  -1.07593E+00
+   3     7         BT   Function:  -5.51459E-01
+   3     7         Hopf Function:  -1.04348E+00
+
+   3     7         Eigenvalues  :   Stable:   3
+   3     7         Eigenvalue  1:  -6.99325E-10   0.00000E+00
+   3     7         Eigenvalue  2:  -1.04348E+00  -9.67324E-01
+   3     7         Eigenvalue  3:  -1.04348E+00   9.67324E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     7        0   1.31229E+00   5.60658E-01   8.15243E-02   5.22731E-01   1.85591E-01   5.40636E-01   2.50000E-01   4.00000E+00
+
+   3     6         Iterations   :   3
+   3     6         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     8   0        1.35942E+00   5.71359E-01
+   3     8   1        1.35964E+00   5.71184E-01
+   3     8   2        1.35963E+00   5.71183E-01
+   3     8   3        1.35963E+00   5.71183E-01
+
+   3     8         Fold Function:   9.37124E-01
+   3     8         BP   Function:  -4.94162E+01
+   3     8         Cusp Function:  -1.07339E+00
+   3     8         BT   Function:  -5.43078E-01
+   3     8         Hopf Function:  -1.04435E+00
+
+   3     8         Eigenvalues  :   Stable:   3
+   3     8         Eigenvalue  1:   1.91694E-10   0.00000E+00
+   3     8         Eigenvalue  2:  -1.04435E+00  -9.78663E-01
+   3     8         Eigenvalue  3:  -1.04435E+00   9.78663E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     8        0   1.35963E+00   5.71183E-01   8.06534E-02   5.33561E-01   1.87235E-01   5.50933E-01   2.50000E-01   4.00000E+00
+
+   3     7         Iterations   :   3
+   3     7         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     9   0        1.40698E+00   5.81725E-01
+   3     9   1        1.40717E+00   5.81555E-01
+   3     9   2        1.40717E+00   5.81554E-01
+   3     9   3        1.40717E+00   5.81554E-01
+
+   3     9         Fold Function:   9.40674E-01
+   3     9         BP   Function:  -5.21348E+01
+   3     9         Cusp Function:  -1.07033E+00
+   3     9         BT   Function:  -5.35126E-01
+   3     9         Hopf Function:  -1.04515E+00
+
+   3     9         Eigenvalues  :   Stable:   3
+   3     9         Eigenvalue  1:  -1.23908E-10   0.00000E+00
+   3     9         Eigenvalue  2:  -1.04515E+00  -9.89989E-01
+   3     9         Eigenvalue  3:  -1.04515E+00   9.89989E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     9        0   1.40717E+00   5.81554E-01   7.98453E-02   5.44198E-01   1.88888E-01   5.61074E-01   2.50000E-01   4.00000E+00
+
+   3     8         Iterations   :   3
+   3     8         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    10   0        1.45470E+00   5.91941E-01
+   3    10   1        1.45487E+00   5.91778E-01
+   3    10   2        1.45487E+00   5.91777E-01
+   3    10   3        1.45487E+00   5.91777E-01
+
+   3    10         Fold Function:   9.43865E-01
+   3    10         BP   Function:  -5.49802E+01
+   3    10         Cusp Function:  -1.06685E+00
+   3    10         BT   Function:  -5.27572E-01
+   3    10         Hopf Function:  -1.04591E+00
+
+   3    10         Eigenvalues  :   Stable:   3
+   3    10         Eigenvalue  1:   1.60584E-10   0.00000E+00
+   3    10         Eigenvalue  2:  -1.04591E+00  -1.00129E+00
+   3    10         Eigenvalue  3:  -1.04591E+00   1.00129E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    10        0   1.45487E+00   5.91777E-01   7.90936E-02   5.54649E-01   1.90548E-01   5.71065E-01   2.50000E-01   4.00000E+00
+
+   3     9         Iterations   :   3
+   3     9         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    11   0        1.50258E+00   6.02013E-01
+   3    11   1        1.50273E+00   6.01855E-01
+   3    11   2        1.50273E+00   6.01855E-01
+   3    11   3        1.50273E+00   6.01855E-01
+
+   3    11         Fold Function:   9.46721E-01
+   3    11         BP   Function:  -5.78243E+01
+   3    11         Cusp Function:  -1.06301E+00
+   3    11         BT   Function:  -5.20389E-01
+   3    11         Hopf Function:  -1.04661E+00
+
+   3    11         Eigenvalues  :   Stable:   3
+   3    11         Eigenvalue  1:   3.48140E-10   0.00000E+00
+   3    11         Eigenvalue  2:  -1.04661E+00  -1.01256E+00
+   3    11         Eigenvalue  3:  -1.04661E+00   1.01256E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    11        0   1.50273E+00   6.01855E-01   7.83928E-02   5.64923E-01   1.92212E-01   5.80910E-01   2.50000E-01   4.00000E+00
+
+   3    10         Iterations   :   3
+   3    10         Next Step    :   5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    12   0        1.55058E+00   6.11944E-01
+   3    12   1        1.55072E+00   6.11792E-01
+   3    12   2        1.55072E+00   6.11792E-01
+
+   3    12         Fold Function:   9.49299E-01
+   3    12         BP   Function:  -6.06870E+01
+   3    12         Cusp Function:  -1.05494E+00
+   3    12         BT   Function:  -5.13551E-01
+   3    12         Hopf Function:  -1.04726E+00
+
+   3    12         Eigenvalues  :   Stable:   3
+   3    12         Eigenvalue  1:   8.22514E-12   0.00000E+00
+   3    12         Eigenvalue  2:  -1.04726E+00  -1.02378E+00
+   3    12         Eigenvalue  3:  -1.04726E+00   1.02378E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    12        0   1.55072E+00   6.11792E-01   7.77379E-02   5.75028E-01   1.93878E-01   5.90613E-01   2.50000E-01   4.00000E+00
+
+   3    11         Iterations   :   2
+   3    11         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    13   0        1.62271E+00   6.26717E-01
+   3    13   1        1.62295E+00   6.26444E-01
+   3    13   2        1.62294E+00   6.26443E-01
+   3    13   3        1.62294E+00   6.26443E-01
+
+   3    13         Fold Function:   9.52727E-01
+   3    13         BP   Function:  -6.52524E+01
+   3    13         Cusp Function:  -1.05220E+00
+   3    13         BT   Function:  -5.03890E-01
+   3    13         Hopf Function:  -1.04817E+00
+
+   3    13         Eigenvalues  :   Stable:   3
+   3    13         Eigenvalue  1:   3.19358E-11   0.00000E+00
+   3    13         Eigenvalue  2:  -1.04817E+00  -1.04052E+00
+   3    13         Eigenvalue  3:  -1.04817E+00   1.04052E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    13        0   1.62294E+00   6.26443E-01   7.68325E-02   5.89884E-01   1.96377E-01   6.04915E-01   2.50000E-01   4.00000E+00
+
+   3    12         Iterations   :   3
+   3    12         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    14   0        1.69516E+00   6.41115E-01
+   3    14   1        1.69541E+00   6.40803E-01
+   3    14   2        1.69541E+00   6.40801E-01
+   3    14   3        1.69541E+00   6.40801E-01
+
+   3    14         Fold Function:   9.55687E-01
+   3    14         BP   Function:  -6.98149E+01
+   3    14         Cusp Function:  -1.04512E+00
+   3    14         BT   Function:  -4.94884E-01
+   3    14         Hopf Function:  -1.04899E+00
+
+   3    14         Eigenvalues  :   Stable:   3
+   3    14         Eigenvalue  1:  -2.08231E-10   0.00000E+00
+   3    14         Eigenvalue  2:  -1.04899E+00  -1.05712E+00
+   3    14         Eigenvalue  3:  -1.04899E+00   1.05712E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    14        0   1.69541E+00   6.40801E-01   7.60085E-02   6.04399E-01   1.98874E-01   6.18924E-01   2.50000E-01   4.00000E+00
+
+   3    13         Iterations   :   3
+   3    13         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    15   0        1.76787E+00   6.55177E-01
+   3    15   1        1.76808E+00   6.54882E-01
+   3    15   2        1.76808E+00   6.54881E-01
+   3    15   3        1.76808E+00   6.54881E-01
+
+   3    15         Fold Function:   9.58311E-01
+   3    15         BP   Function:  -7.45425E+01
+   3    15         Cusp Function:  -1.03773E+00
+   3    15         BT   Function:  -4.86468E-01
+   3    15         Hopf Function:  -1.04974E+00
+
+   3    15         Eigenvalues  :   Stable:   3
+   3    15         Eigenvalue  1:  -7.83069E-11   0.00000E+00
+   3    15         Eigenvalue  2:  -1.04974E+00  -1.07359E+00
+   3    15         Eigenvalue  3:  -1.04974E+00   1.07359E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    15        0   1.76808E+00   6.54881E-01   7.52556E-02   6.18594E-01   2.01364E-01   6.32656E-01   2.50000E-01   4.00000E+00
+
+   3    14         Iterations   :   3
+   3    14         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    16   0        1.84075E+00   6.68976E-01
+   3    16   1        1.84094E+00   6.68696E-01
+   3    16   2        1.84094E+00   6.68695E-01
+   3    16   3        1.84094E+00   6.68695E-01
+
+   3    16         Fold Function:   9.60604E-01
+   3    16         BP   Function:  -7.94274E+01
+   3    16         Cusp Function:  -1.03012E+00
+   3    16         BT   Function:  -4.78589E-01
+   3    16         Hopf Function:  -1.05043E+00
+
+   3    16         Eigenvalues  :   Stable:   3
+   3    16         Eigenvalue  1:   8.08292E-11   0.00000E+00
+   3    16         Eigenvalue  2:  -1.05043E+00   1.08990E+00
+   3    16         Eigenvalue  3:  -1.05043E+00  -1.08990E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    16        0   1.84094E+00   6.68695E-01   7.45651E-02   6.32488E-01   2.03846E-01   6.46125E-01   2.50000E-01   4.00000E+00
+
+   3    15         Iterations   :   3
+   3    15         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    17   0        1.91380E+00   6.82523E-01
+   3    17   1        1.91397E+00   6.82258E-01
+   3    17   2        1.91397E+00   6.82257E-01
+   3    17   3        1.91397E+00   6.82257E-01
+
+   3    17         Fold Function:   9.62660E-01
+   3    17         BP   Function:  -8.42863E+01
+   3    17         Cusp Function:  -1.02236E+00
+   3    17         BT   Function:  -4.71197E-01
+   3    17         Hopf Function:  -1.05107E+00
+
+   3    17         Eigenvalues  :   Stable:   3
+   3    17         Eigenvalue  1:   3.52925E-10   0.00000E+00
+   3    17         Eigenvalue  2:  -1.05107E+00   1.10606E+00
+   3    17         Eigenvalue  3:  -1.05107E+00  -1.10606E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    17        0   1.91397E+00   6.82257E-01   7.39296E-02   6.46098E-01   2.06316E-01   6.59344E-01   2.50000E-01   4.00000E+00
+
+   3    16         Iterations   :   3
+   3    16         Next Step    :   7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    18   0        1.98699E+00   6.95830E-01
+   3    18   1        1.98714E+00   6.95578E-01
+   3    18   2        1.98714E+00   6.95578E-01
+
+   3    18         Fold Function:   9.64516E-01
+   3    18         BP   Function:  -8.92467E+01
+   3    18         Cusp Function:  -1.01189E+00
+   3    18         BT   Function:  -4.64249E-01
+   3    18         Hopf Function:  -1.05166E+00
+
+   3    18         Eigenvalues  :   Stable:   3
+   3    18         Eigenvalue  1:   1.77183E-10   0.00000E+00
+   3    18         Eigenvalue  2:  -1.05166E+00   1.12205E+00
+   3    18         Eigenvalue  3:  -1.05166E+00  -1.12205E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    18        0   1.98714E+00   6.95578E-01   7.33429E-02   6.59441E-01   2.08773E-01   6.72324E-01   2.50000E-01   4.00000E+00
+
+   3    17         Iterations   :   2
+   3    17         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    19   0        2.08350E+00   7.13134E-01
+   3    19   1        2.08370E+00   7.12771E-01
+   3    19   2        2.08370E+00   7.12771E-01
+   3    19   3        2.08370E+00   7.12771E-01
+
+ ==> Location of special point :  Iteration   0  Step size =  -8.66810E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    19   0        2.00000E+00   6.97867E-01
+   3    19   1        1.99999E+00   6.97890E-01
+   3    19   2        1.99999E+00   6.97890E-01
+
+ ==> Location of special point :  Convergence.   Step size =   1.30043E-05
+   3    19         Fold Function:   9.64819E-01
+   3    19         BP   Function:  -9.02403E+01
+   3    19         Cusp Function:  -1.01312E+00
+   3    19         BT   Function:  -4.63073E-01
+   3    19         Hopf Function:  -1.05176E+00
+
+   3    19         Eigenvalues  :   Stable:   3
+   3    19         Eigenvalue  1:   6.20166E-10   0.00000E+00
+   3    19         Eigenvalue  2:  -1.05176E+00   1.12484E+00
+   3    19         Eigenvalue  3:  -1.05176E+00  -1.12484E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    19  UZ   12   1.99999E+00   6.97890E-01   7.32446E-02   6.61755E-01   2.09203E-01   6.74577E-01   2.50000E-01   4.00000E+00
+===============================================
+
+ Total Time    0.441E-02
+   3     1         Hopf Function:  -1.03945E+00
+
+   3     1         Eigenvalues  :   Stable:   3
+   3     1         Eigenvalue  1:  -2.15897E-06   0.00000E+00
+   3     1         Eigenvalue  2:  -1.03945E+00  -9.24433E-01
+   3     1         Eigenvalue  3:  -1.03945E+00   9.24433E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     1        0   1.13452E+00   5.19192E-01   8.55532E-02   4.79610E-01   1.79484E-01   5.00000E-01   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     2   0        1.12540E+00   5.16978E-01
+   3     2   1        1.12540E+00   5.16974E-01
+   3     2   2        1.12540E+00   5.16974E-01
+
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     2   0        1.11629E+00   5.14758E-01
+   3     2   1        1.11630E+00   5.14750E-01
+   3     2   2        1.11630E+00   5.14750E-01
+
+   3     2         Fold Function:   9.09218E-01
+   3     2         BP   Function:  -3.61728E+01
+   3     2         Cusp Function:  -1.07846E+00
+   3     2         BT   Function:  -5.92101E-01
+   3     2         Hopf Function:  -1.03895E+00
+
+   3     2         Eigenvalues  :   Stable:   3
+   3     2         Eigenvalue  1:  -1.11936E-11   0.00000E+00
+   3     2         Eigenvalue  2:  -1.03895E+00  -9.20037E-01
+   3     2         Eigenvalue  3:  -1.03895E+00   9.20037E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     2        0   1.11630E+00   5.14750E-01   8.60522E-02   4.74940E-01   1.78871E-01   4.95639E-01   2.50000E-01   4.00000E+00
+
+   3     1         Iterations   :   2
+   3     1         Next Step    :  -1.50000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     3   0        1.10266E+00   5.11417E-01
+   3     3   1        1.10268E+00   5.11403E-01
+   3     3   2        1.10268E+00   5.11403E-01
+
+   3     3         Fold Function:   9.06945E-01
+   3     3         BP   Function:  -3.54670E+01
+   3     3         Cusp Function:  -1.07793E+00
+   3     3         BT   Function:  -5.95351E-01
+   3     3         Hopf Function:  -1.03856E+00
+
+   3     3         Eigenvalues  :   Stable:   3
+   3     3         Eigenvalue  1:  -3.58306E-11   0.00000E+00
+   3     3         Eigenvalue  2:  -1.03856E+00  -9.16751E-01
+   3     3         Eigenvalue  3:  -1.03856E+00   9.16751E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     3        0   1.10268E+00   5.11403E-01   8.64379E-02   4.71413E-01   1.78413E-01   4.92352E-01   2.50000E-01   4.00000E+00
+
+   3     2         Iterations   :   2
+   3     2         Next Step    :  -2.25000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     4   0        1.08225E+00   5.06388E-01
+   3     4   1        1.08232E+00   5.06356E-01
+   3     4   2        1.08232E+00   5.06356E-01
+
+   3     4         Fold Function:   9.03259E-01
+   3     4         BP   Function:  -3.44657E+01
+   3     4         Cusp Function:  -1.07641E+00
+   3     4         BT   Function:  -6.00331E-01
+   3     4         Hopf Function:  -1.03796E+00
+
+   3     4         Eigenvalues  :   Stable:   3
+   3     4         Eigenvalue  1:  -7.61780E-11   0.00000E+00
+   3     4         Eigenvalue  2:  -1.03796E+00  -9.11846E-01
+   3     4         Eigenvalue  3:  -1.03796E+00   9.11846E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     4        0   1.08232E+00   5.06356E-01   8.70362E-02   4.66081E-01   1.77733E-01   4.87392E-01   2.50000E-01   4.00000E+00
+
+   3     3         Iterations   :   2
+   3     3         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     5   0        1.05177E+00   4.98799E-01
+   3     5   1        1.05193E+00   4.98727E-01
+   3     5   2        1.05193E+00   4.98727E-01
+   3     5   3        1.05193E+00   4.98727E-01
+
+   3     5         Fold Function:   8.97232E-01
+   3     5         BP   Function:  -3.29354E+01
+   3     5         Cusp Function:  -1.07501E+00
+   3     5         BT   Function:  -6.08049E-01
+   3     5         Hopf Function:  -1.03702E+00
+
+   3     5         Eigenvalues  :   Stable:   3
+   3     5         Eigenvalue  1:  -9.37628E-11   0.00000E+00
+   3     5         Eigenvalue  2:  -1.03702E+00  -9.04548E-01
+   3     5         Eigenvalue  3:  -1.03702E+00   9.04548E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     5        0   1.05193E+00   4.98727E-01   8.79813E-02   4.57991E-01   1.76727E-01   4.79891E-01   2.50000E-01   4.00000E+00
+
+   3     4         Iterations   :   3
+   3     4         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     6   0        1.02155E+00   4.91118E-01
+   3     6   1        1.02176E+00   4.91031E-01
+   3     6   2        1.02176E+00   4.91032E-01
+   3     6   3        1.02176E+00   4.91032E-01
+
+   3     6         Fold Function:   8.90682E-01
+   3     6         BP   Function:  -3.14540E+01
+   3     6         Cusp Function:  -1.07231E+00
+   3     6         BT   Function:  -6.16073E-01
+   3     6         Hopf Function:  -1.03601E+00
+
+   3     6         Eigenvalues  :   Stable:   3
+   3     6         Eigenvalue  1:   1.69305E-10   0.00000E+00
+   3     6         Eigenvalue  2:  -1.03601E+00  -8.97338E-01
+   3     6         Eigenvalue  3:  -1.03601E+00   8.97338E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     6        0   1.02176E+00   4.91032E-01   8.89880E-02   4.49787E-01   1.75741E-01   4.72317E-01   2.50000E-01   4.00000E+00
+
+   3     5         Iterations   :   3
+   3     5         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     7   0        9.91588E-01   4.83357E-01
+   3     7   1        9.91819E-01   4.83271E-01
+   3     7   2        9.91824E-01   4.83272E-01
+   3     7   3        9.91824E-01   4.83272E-01
+
+   3     7         Fold Function:   8.83186E-01
+   3     7         BP   Function:  -3.00274E+01
+   3     7         Cusp Function:  -1.06881E+00
+   3     7         BT   Function:  -6.24418E-01
+   3     7         Hopf Function:  -1.03494E+00
+
+   3     7         Eigenvalues  :   Stable:   3
+   3     7         Eigenvalue  1:  -3.58557E-11   0.00000E+00
+   3     7         Eigenvalue  2:  -1.03494E+00  -8.90235E-01
+   3     7         Eigenvalue  3:  -1.03494E+00   8.90235E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     7        0   9.91824E-01   4.83272E-01   9.00619E-02   4.41467E-01   1.74778E-01   4.64671E-01   2.50000E-01   4.00000E+00
+
+   3     6         Iterations   :   3
+   3     6         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     8   0        9.61887E-01   4.75535E-01
+   3     8   1        9.62146E-01   4.75451E-01
+   3     8   2        9.62151E-01   4.75452E-01
+   3     8   3        9.62151E-01   4.75452E-01
+
+   3     8         Fold Function:   8.75019E-01
+   3     8         BP   Function:  -2.86349E+01
+   3     8         Cusp Function:  -1.06440E+00
+   3     8         BT   Function:  -6.33098E-01
+   3     8         Hopf Function:  -1.03379E+00
+
+   3     8         Eigenvalues  :   Stable:   3
+   3     8         Eigenvalue  1:  -3.19683E-10   0.00000E+00
+   3     8         Eigenvalue  2:  -1.03379E+00  -8.83261E-01
+   3     8         Eigenvalue  3:  -1.03379E+00   8.83261E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     8        0   9.62151E-01   4.75452E-01   9.12092E-02   4.33030E-01   1.73841E-01   4.56957E-01   2.50000E-01   4.00000E+00
+
+   3     7         Iterations   :   3
+   3     7         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3     9   0        9.32479E-01   4.67658E-01
+   3     9   1        9.32768E-01   4.67576E-01
+   3     9   2        9.32775E-01   4.67578E-01
+   3     9   3        9.32775E-01   4.67578E-01
+
+   3     9         Fold Function:   8.65722E-01
+   3     9         BP   Function:  -2.72600E+01
+   3     9         Cusp Function:  -1.05898E+00
+   3     9         BT   Function:  -6.42124E-01
+   3     9         Hopf Function:  -1.03256E+00
+
+   3     9         Eigenvalues  :   Stable:   3
+   3     9         Eigenvalue  1:  -9.93557E-11   0.00000E+00
+   3     9         Eigenvalue  2:  -1.03256E+00  -8.76441E-01
+   3     9         Eigenvalue  3:  -1.03256E+00   8.76441E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3     9        0   9.32775E-01   4.67578E-01   9.24369E-02   4.24474E-01   1.72934E-01   4.49179E-01   2.50000E-01   4.00000E+00
+
+   3     8         Iterations   :   3
+   3     8         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    10   0        9.03398E-01   4.59733E-01
+   3    10   1        9.03722E-01   4.59654E-01
+   3    10   2        9.03730E-01   4.59656E-01
+   3    10   3        9.03730E-01   4.59656E-01
+
+   3    10         Fold Function:   8.55271E-01
+   3    10         BP   Function:  -2.59652E+01
+   3    10         Cusp Function:  -1.05243E+00
+   3    10         BT   Function:  -6.51508E-01
+   3    10         Hopf Function:  -1.03125E+00
+
+   3    10         Eigenvalues  :   Stable:   3
+   3    10         Eigenvalue  1:   9.18699E-11   0.00000E+00
+   3    10         Eigenvalue  2:  -1.03125E+00  -8.69804E-01
+   3    10         Eigenvalue  3:  -1.03125E+00   8.69804E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    10        0   9.03730E-01   4.59656E-01   9.37525E-02   4.15800E-01   1.72060E-01   4.41342E-01   2.50000E-01   4.00000E+00
+
+   3     9         Iterations   :   3
+   3     9         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    11   0        8.74686E-01   4.51768E-01
+   3    11   1        8.75050E-01   4.51694E-01
+   3    11   2        8.75059E-01   4.51697E-01
+   3    11   3        8.75059E-01   4.51697E-01
+
+   3    11         Fold Function:   8.43380E-01
+   3    11         BP   Function:  -2.46955E+01
+   3    11         Cusp Function:  -1.04460E+00
+   3    11         BT   Function:  -6.61261E-01
+   3    11         Hopf Function:  -1.02984E+00
+
+   3    11         Eigenvalues  :   Stable:   3
+   3    11         Eigenvalue  1:   1.27751E-10   0.00000E+00
+   3    11         Eigenvalue  2:  -1.02984E+00  -8.63384E-01
+   3    11         Eigenvalue  3:  -1.02984E+00   8.63384E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    11        0   8.75059E-01   4.51697E-01   9.51643E-02   4.07008E-01   1.71225E-01   4.33454E-01   2.50000E-01   4.00000E+00
+
+   3    10         Iterations   :   3
+   3    10         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    12   0        8.46389E-01   4.43775E-01
+   3    12   1        8.46799E-01   4.43708E-01
+   3    12   2        8.46810E-01   4.43711E-01
+   3    12   3        8.46810E-01   4.43711E-01
+
+   3    12         Fold Function:   8.30231E-01
+   3    12         BP   Function:  -2.34915E+01
+   3    12         Cusp Function:  -1.03536E+00
+   3    12         BT   Function:  -6.71388E-01
+   3    12         Hopf Function:  -1.02832E+00
+
+   3    12         Eigenvalues  :   Stable:   3
+   3    12         Eigenvalue  1:  -2.27311E-10   0.00000E+00
+   3    12         Eigenvalue  2:  -1.02832E+00  -8.57220E-01
+   3    12         Eigenvalue  3:  -1.02832E+00   8.57220E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    12        0   8.46810E-01   4.43711E-01   9.66814E-02   3.98101E-01   1.70434E-01   4.25523E-01   2.50000E-01   4.00000E+00
+
+   3    11         Iterations   :   3
+   3    11         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    13   0        8.18561E-01   4.35768E-01
+   3    13   1        8.19024E-01   4.35710E-01
+   3    13   2        8.19036E-01   4.35713E-01
+   3    13   3        8.19036E-01   4.35713E-01
+
+   3    13         Fold Function:   8.15163E-01
+   3    13         BP   Function:  -2.23553E+01
+   3    13         Cusp Function:  -1.02452E+00
+   3    13         BT   Function:  -6.81895E-01
+   3    13         Hopf Function:  -1.02669E+00
+
+   3    13         Eigenvalues  :   Stable:   3
+   3    13         Eigenvalue  1:   2.65183E-11   0.00000E+00
+   3    13         Eigenvalue  2:  -1.02669E+00  -8.51356E-01
+   3    13         Eigenvalue  3:  -1.02669E+00   8.51356E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    13        0   8.19036E-01   4.35713E-01   9.83136E-02   3.89083E-01   1.69692E-01   4.17563E-01   2.50000E-01   4.00000E+00
+
+   3    12         Iterations   :   3
+   3    12         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    14   0        7.91262E-01   4.27764E-01
+   3    14   1        7.91784E-01   4.27718E-01
+   3    14   2        7.91798E-01   4.27722E-01
+   3    14   3        7.91798E-01   4.27722E-01
+
+   3    14         Fold Function:   7.98490E-01
+   3    14         BP   Function:  -2.12552E+01
+   3    14         Cusp Function:  -1.01192E+00
+   3    14         BT   Function:  -6.92780E-01
+   3    14         Hopf Function:  -1.02493E+00
+
+   3    14         Eigenvalues  :   Stable:   3
+   3    14         Eigenvalue  1:   1.30305E-10   0.00000E+00
+   3    14         Eigenvalue  2:  -1.02493E+00  -8.45842E-01
+   3    14         Eigenvalue  3:  -1.02493E+00   8.45842E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    14        0   7.91798E-01   4.27722E-01   1.00072E-01   3.79959E-01   1.69005E-01   4.09586E-01   2.50000E-01   4.00000E+00
+
+   3    13         Iterations   :   3
+   3    13         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    15   0        7.64560E-01   4.19785E-01
+   3    15   1        7.65149E-01   4.19753E-01
+   3    15   2        7.65165E-01   4.19758E-01
+   3    15   3        7.65165E-01   4.19758E-01
+
+   3    15         Fold Function:   7.79323E-01
+   3    15         BP   Function:  -2.02195E+01
+   3    15         Cusp Function:  -9.97356E-01
+   3    15         BT   Function:  -7.04036E-01
+   3    15         Hopf Function:  -1.02303E+00
+
+   3    15         Eigenvalues  :   Stable:   3
+   3    15         Eigenvalue  1:   1.25020E-10   0.00000E+00
+   3    15         Eigenvalue  2:  -1.02303E+00  -8.40736E-01
+   3    15         Eigenvalue  3:  -1.02303E+00   8.40736E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    15        0   7.65165E-01   4.19758E-01   1.01966E-01   3.70739E-01   1.68381E-01   4.01613E-01   2.50000E-01   4.00000E+00
+
+   3    14         Iterations   :   3
+   3    14         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    16   0        7.38532E-01   4.11856E-01
+   3    16   1        7.39195E-01   4.11843E-01
+   3    16   2        7.39213E-01   4.11848E-01
+   3    16   3        7.39213E-01   4.11848E-01
+
+   3    16         Fold Function:   7.58102E-01
+   3    16         BP   Function:  -1.92411E+01
+   3    16         Cusp Function:  -9.80627E-01
+   3    16         BT   Function:  -7.15651E-01
+   3    16         Hopf Function:  -1.02099E+00
+
+   3    16         Eigenvalues  :   Stable:   3
+   3    16         Eigenvalue  1:   6.83466E-11   0.00000E+00
+   3    16         Eigenvalue  2:  -1.02099E+00  -8.36100E-01
+   3    16         Eigenvalue  3:  -1.02099E+00   8.36100E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    16        0   7.39213E-01   4.11848E-01   1.04010E-01   3.61435E-01   1.67827E-01   3.93664E-01   2.50000E-01   4.00000E+00
+
+   3    15         Iterations   :   3
+   3    15         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    17   0        7.13261E-01   4.04009E-01
+   3    17   1        7.14005E-01   4.04016E-01
+   3    17   2        7.14025E-01   4.04022E-01
+   3    17   3        7.14025E-01   4.04022E-01
+
+   3    17         Fold Function:   7.33747E-01
+   3    17         BP   Function:  -1.83274E+01
+   3    17         Cusp Function:  -9.61521E-01
+   3    17         BT   Function:  -7.27601E-01
+   3    17         Hopf Function:  -1.01879E+00
+
+   3    17         Eigenvalues  :   Stable:   3
+   3    17         Eigenvalue  1:  -8.04715E-11   0.00000E+00
+   3    17         Eigenvalue  2:  -1.01879E+00  -8.32004E-01
+   3    17         Eigenvalue  3:  -1.01879E+00   8.32004E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    17        0   7.14025E-01   4.04022E-01   1.06214E-01   3.52060E-01   1.67350E-01   3.85767E-01   2.50000E-01   4.00000E+00
+
+   3    16         Iterations   :   3
+   3    16         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    18   0        6.88837E-01   3.96277E-01
+   3    18   1        6.89668E-01   3.96309E-01
+   3    18   2        6.89690E-01   3.96316E-01
+   3    18   3        6.89690E-01   3.96316E-01
+
+   3    18         Fold Function:   7.07620E-01
+   3    18         BP   Function:  -1.74855E+01
+   3    18         Cusp Function:  -9.39830E-01
+   3    18         BT   Function:  -7.39852E-01
+   3    18         Hopf Function:  -1.01641E+00
+
+   3    18         Eigenvalues  :   Stable:   3
+   3    18         Eigenvalue  1:  -3.68230E-11   0.00000E+00
+   3    18         Eigenvalue  2:  -1.01641E+00  -8.28523E-01
+   3    18         Eigenvalue  3:  -1.01641E+00   8.28523E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    18        0   6.89690E-01   3.96316E-01   1.08591E-01   3.42636E-01   1.66960E-01   3.77950E-01   2.50000E-01   4.00000E+00
+
+   3    17         Iterations   :   3
+   3    17         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    19   0        6.65355E-01   3.88701E-01
+   3    19   1        6.66278E-01   3.88762E-01
+   3    19   2        6.66302E-01   3.88770E-01
+   3    19   3        6.66302E-01   3.88770E-01
+
+   3    19         Fold Function:   6.77958E-01
+   3    19         BP   Function:  -1.67286E+01
+   3    19         Cusp Function:  -9.15348E-01
+   3    19         BT   Function:  -7.52360E-01
+   3    19         Hopf Function:  -1.01385E+00
+
+   3    19         Eigenvalues  :   Stable:   3
+   3    19         Eigenvalue  1:   1.37256E-10   0.00000E+00
+   3    19         Eigenvalue  2:  -1.01385E+00  -8.25737E-01
+   3    19         Eigenvalue  3:  -1.01385E+00   8.25737E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    19        0   6.66302E-01   3.88770E-01   1.11153E-01   3.33183E-01   1.66663E-01   3.70249E-01   2.50000E-01   4.00000E+00
+
+   3    18         Iterations   :   3
+   3    18         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    20   0        6.42915E-01   3.81326E-01
+   3    20   1        6.43932E-01   3.81419E-01
+   3    20   2        6.43957E-01   3.81428E-01
+   3    20   3        6.43957E-01   3.81428E-01
+
+   3    20         Fold Function:   6.45575E-01
+   3    20         BP   Function:  -1.60282E+01
+   3    20         Cusp Function:  -8.87888E-01
+   3    20         BT   Function:  -7.65068E-01
+   3    20         Hopf Function:  -1.01109E+00
+
+   3    20         Eigenvalues  :   Stable:   3
+   3    20         Eigenvalue  1:   1.30168E-10   0.00000E+00
+   3    20         Eigenvalue  2:  -1.01109E+00  -8.23731E-01
+   3    20         Eigenvalue  3:  -1.01109E+00   8.23731E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    20       12   6.43957E-01   3.81428E-01   1.13911E-01   3.23728E-01   1.66468E-01   3.62702E-01   2.50000E-01   4.00000E+00
+
+   3    19         Iterations   :   3
+   3    19         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    21   0        6.21613E-01   3.74201E-01
+   3    21   1        6.22723E-01   3.74328E-01
+   3    21   2        6.22750E-01   3.74337E-01
+   3    21   3        6.22750E-01   3.74337E-01
+
+   3    21         Fold Function:   6.10480E-01
+   3    21         BP   Function:  -1.54274E+01
+   3    21         Cusp Function:  -8.57291E-01
+   3    21         BT   Function:  -7.77907E-01
+   3    21         Hopf Function:  -1.00813E+00
+
+   3    21         Eigenvalues  :   Stable:   3
+   3    21         Eigenvalue  1:  -2.26019E-11   0.00000E+00
+   3    21         Eigenvalue  2:  -1.00813E+00  -8.22587E-01
+   3    21         Eigenvalue  3:  -1.00813E+00   8.22587E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    21        0   6.22750E-01   3.74337E-01   1.16875E-01   3.14302E-01   1.66382E-01   3.55351E-01   2.50000E-01   4.00000E+00
+
+   3    20         Iterations   :   3
+   3    20         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    22   0        6.01542E-01   3.67376E-01
+   3    22   1        6.02739E-01   3.67538E-01
+   3    22   2        6.02767E-01   3.67548E-01
+   3    22   3        6.02767E-01   3.67548E-01
+
+   3    22         Fold Function:   5.73051E-01
+   3    22         BP   Function:  -1.48764E+01
+   3    22         Cusp Function:  -8.23437E-01
+   3    22         BT   Function:  -7.90796E-01
+   3    22         Hopf Function:  -1.00495E+00
+
+   3    22         Eigenvalues  :   Stable:   3
+   3    22         Eigenvalue  1:  -5.74467E-11   0.00000E+00
+   3    22         Eigenvalue  2:  -1.00495E+00  -8.22387E-01
+   3    22         Eigenvalue  3:  -1.00495E+00   8.22387E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    22        0   6.02767E-01   3.67548E-01   1.20053E-01   3.04936E-01   1.66411E-01   3.48240E-01   2.50000E-01   4.00000E+00
+
+   3    21         Iterations   :   3
+   3    21         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    23   0        5.82785E-01   3.60901E-01
+   3    23   1        5.84061E-01   3.61099E-01
+   3    23   2        5.84089E-01   3.61109E-01
+   3    23   3        5.84089E-01   3.61109E-01
+
+   3    23         Fold Function:   5.33451E-01
+   3    23         BP   Function:  -1.44167E+01
+   3    23         Cusp Function:  -7.86246E-01
+   3    23         BT   Function:  -8.03646E-01
+   3    23         Hopf Function:  -1.00155E+00
+
+   3    23         Eigenvalues  :   Stable:   3
+   3    23         Eigenvalue  1:  -1.10260E-10   0.00000E+00
+   3    23         Eigenvalue  2:  -1.00155E+00  -8.23210E-01
+   3    23         Eigenvalue  3:  -1.00155E+00   8.23210E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    23        0   5.84089E-01   3.61109E-01   1.23451E-01   2.95663E-01   1.66562E-01   3.41412E-01   2.50000E-01   4.00000E+00
+
+   3    22         Iterations   :   3
+   3    22         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    24   0        5.65411E-01   3.54828E-01
+   3    24   1        5.66752E-01   3.55060E-01
+   3    24   2        5.66779E-01   3.55069E-01
+   3    24   3        5.66779E-01   3.55069E-01
+
+   3    24         Fold Function:   4.92164E-01
+   3    24         BP   Function:  -1.40248E+01
+   3    24         Cusp Function:  -7.45712E-01
+   3    24         BT   Function:  -8.16360E-01
+   3    24         Hopf Function:  -9.97924E-01
+
+   3    24         Eigenvalues  :   Stable:   3
+   3    24         Eigenvalue  1:   5.53809E-12   0.00000E+00
+   3    24         Eigenvalue  2:  -9.97924E-01  -8.25125E-01
+   3    24         Eigenvalue  3:  -9.97924E-01   8.25125E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    24        0   5.66779E-01   3.55069E-01   1.27076E-01   2.86515E-01   1.66838E-01   3.34910E-01   2.50000E-01   4.00000E+00
+
+   3    23         Iterations   :   3
+   3    23         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    25   0        5.49469E-01   3.49202E-01
+   3    25   1        5.50860E-01   3.49464E-01
+   3    25   2        5.50885E-01   3.49473E-01
+   3    25   3        5.50885E-01   3.49473E-01
+
+   3    25         Fold Function:   4.49859E-01
+   3    25         BP   Function:  -1.37086E+01
+   3    25         Cusp Function:  -7.01865E-01
+   3    25         BT   Function:  -8.28843E-01
+   3    25         Hopf Function:  -9.94071E-01
+
+   3    25         Eigenvalues  :   Stable:   3
+   3    25         Eigenvalue  1:   7.20388E-11   0.00000E+00
+   3    25         Eigenvalue  2:  -9.94071E-01  -8.28191E-01
+   3    25         Eigenvalue  3:  -9.94071E-01   8.28191E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    25        0   5.50885E-01   3.49473E-01   1.30929E-01   2.77524E-01   1.67241E-01   3.28775E-01   2.50000E-01   4.00000E+00
+
+   3    24         Iterations   :   3
+   3    24         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    26   0        5.34991E-01   3.44065E-01
+   3    26   1        5.36412E-01   3.44352E-01
+   3    26   2        5.36436E-01   3.44360E-01
+   3    26   3        5.36436E-01   3.44360E-01
+
+   3    26         Fold Function:   4.06431E-01
+   3    26         BP   Function:  -1.34537E+01
+   3    26         Cusp Function:  -6.54814E-01
+   3    26         BT   Function:  -8.40998E-01
+   3    26         Hopf Function:  -9.89987E-01
+
+   3    26         Eigenvalues  :   Stable:   3
+   3    26         Eigenvalue  1:   2.02399E-11   0.00000E+00
+   3    26         Eigenvalue  2:  -9.89987E-01  -8.32459E-01
+   3    26         Eigenvalue  3:  -9.89987E-01   8.32459E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    26        0   5.36436E-01   3.44360E-01   1.35013E-01   2.68716E-01   1.67772E-01   3.23041E-01   2.50000E-01   4.00000E+00
+
+   3    25         Iterations   :   3
+   3    25         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    27   0        5.21986E-01   3.39449E-01
+   3    27   1        5.23417E-01   3.39757E-01
+   3    27   2        5.23439E-01   3.39765E-01
+   3    27   3        5.23439E-01   3.39765E-01
+
+   3    27         Fold Function:   3.63970E-01
+   3    27         BP   Function:  -1.32467E+01
+   3    27         Cusp Function:  -6.04718E-01
+   3    27         BT   Function:  -8.52737E-01
+   3    27         Hopf Function:  -9.85674E-01
+
+   3    27         Eigenvalues  :   Stable:   3
+   3    27         Eigenvalue  1:   2.32780E-11   0.00000E+00
+   3    27         Eigenvalue  2:  -9.85674E-01  -8.37966E-01
+   3    27         Eigenvalue  3:  -9.85674E-01   8.37966E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    27        0   5.23439E-01   3.39765E-01   1.39326E-01   2.60115E-01   1.68429E-01   3.17740E-01   2.50000E-01   4.00000E+00
+
+   3    26         Iterations   :   3
+   3    26         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    28   0        5.10442E-01   3.35383E-01
+   3    28   1        5.11867E-01   3.35705E-01
+   3    28   2        5.11886E-01   3.35712E-01
+   3    28   3        5.11886E-01   3.35712E-01
+
+   3    28         Fold Function:   3.21032E-01
+   3    28         BP   Function:  -1.31113E+01
+   3    28         Cusp Function:  -5.51782E-01
+   3    28         BT   Function:  -8.63980E-01
+   3    28         Hopf Function:  -9.81132E-01
+
+   3    28         Eigenvalues  :   Stable:   3
+   3    28         Eigenvalue  1:   1.66853E-10   0.00000E+00
+   3    28         Eigenvalue  2:  -9.81132E-01  -8.44740E-01
+   3    28         Eigenvalue  3:  -9.81132E-01   8.44740E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    28        0   5.11886E-01   3.35712E-01   1.43868E-01   2.51737E-01   1.69212E-01   3.12897E-01   2.50000E-01   4.00000E+00
+
+   3    27         Iterations   :   3
+   3    27         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    29   0        5.00333E-01   3.31885E-01
+   3    29   1        5.01735E-01   3.32217E-01
+   3    29   2        5.01752E-01   3.32223E-01
+   3    29   3        5.01752E-01   3.32223E-01
+
+   3    29         Fold Function:   2.79467E-01
+   3    29         BP   Function:  -1.30166E+01
+   3    29         Cusp Function:  -4.96250E-01
+   3    29         BT   Function:  -8.74657E-01
+   3    29         Hopf Function:  -9.76361E-01
+
+   3    29         Eigenvalues  :   Stable:   3
+   3    29         Eigenvalue  1:  -2.17004E-10   0.00000E+00
+   3    29         Eigenvalue  2:  -9.76361E-01  -8.52801E-01
+   3    29         Eigenvalue  3:  -9.76361E-01   8.52801E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    29        0   5.01752E-01   3.32223E-01   1.48639E-01   2.43595E-01   1.70117E-01   3.08531E-01   2.50000E-01   4.00000E+00
+
+   3    28         Iterations   :   3
+   3    28         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    30   0        4.91619E-01   3.28970E-01
+   3    30   1        4.92987E-01   3.29306E-01
+   3    30   2        4.93001E-01   3.29311E-01
+   3    30   3        4.93001E-01   3.29311E-01
+
+   3    30         Fold Function:   2.39165E-01
+   3    30         BP   Function:  -1.29604E+01
+   3    30         Cusp Function:  -4.38397E-01
+   3    30         BT   Function:  -8.84712E-01
+   3    30         Hopf Function:  -9.71362E-01
+
+   3    30         Eigenvalues  :   Stable:   3
+   3    30         Eigenvalue  1:  -3.05916E-11   0.00000E+00
+   3    30         Eigenvalue  2:  -9.71362E-01  -8.62161E-01
+   3    30         Eigenvalue  3:  -9.71362E-01   8.62161E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    30        0   4.93001E-01   3.29311E-01   1.53638E-01   2.35694E-01   1.71140E-01   3.04657E-01   2.50000E-01   4.00000E+00
+
+   3    29         Iterations   :   3
+   3    29         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    31   0        4.84250E-01   3.26643E-01
+   3    31   1        4.85576E-01   3.26981E-01
+   3    31   2        4.85588E-01   3.26984E-01
+   3    31   3        4.85588E-01   3.26984E-01
+
+   3    31         Fold Function:   1.99933E-01
+   3    31         BP   Function:  -1.29425E+01
+   3    31         Cusp Function:  -3.78531E-01
+   3    31         BT   Function:  -8.94102E-01
+   3    31         Hopf Function:  -9.66135E-01
+
+   3    31         Eigenvalues  :   Stable:   3
+   3    31         Eigenvalue  1:   8.62012E-11   0.00000E+00
+   3    31         Eigenvalue  2:  -9.66135E-01  -8.72828E-01
+   3    31         Eigenvalue  3:  -9.66135E-01   8.72828E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    31        0   4.85588E-01   3.26984E-01   1.58865E-01   2.28037E-01   1.72278E-01   3.01286E-01   2.50000E-01   4.00000E+00
+
+   3    30         Iterations   :   3
+   3    30         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    32   0        4.78174E-01   3.24910E-01
+   3    32   1        4.79451E-01   3.25245E-01
+   3    32   2        4.79461E-01   3.25248E-01
+   3    32   3        4.79461E-01   3.25248E-01
+
+   3    32         Fold Function:   1.62879E-01
+   3    32         BP   Function:  -1.29644E+01
+   3    32         Cusp Function:  -3.16962E-01
+   3    32         BT   Function:  -9.02795E-01
+   3    32         Hopf Function:  -9.60679E-01
+
+   3    32         Eigenvalues  :   Stable:   3
+   3    32         Eigenvalue  1:   9.17001E-11   0.00000E+00
+   3    32         Eigenvalue  2:  -9.60679E-01  -8.84810E-01
+   3    32         Eigenvalue  3:  -9.60679E-01   8.84810E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    32        0   4.79461E-01   3.25248E-01   1.64321E-01   2.20622E-01   1.73525E-01   2.98424E-01   2.50000E-01   4.00000E+00
+
+   3    31         Iterations   :   3
+   3    31         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    33   0        4.73335E-01   3.23770E-01
+   3    33   1        4.74562E-01   3.24102E-01
+   3    33   2        4.74570E-01   3.24104E-01
+   3    33   3        4.74570E-01   3.24104E-01
+
+   3    33         Fold Function:   1.26945E-01
+   3    33         BP   Function:  -1.30074E+01
+   3    33         Cusp Function:  -2.54014E-01
+   3    33         BT   Function:  -9.10771E-01
+   3    33         Hopf Function:  -9.54990E-01
+
+   3    33         Eigenvalues  :   Stable:   3
+   3    33         Eigenvalue  1:   8.74094E-11   0.00000E+00
+   3    33         Eigenvalue  2:  -9.54990E-01  -8.98112E-01
+   3    33         Eigenvalue  3:  -9.54990E-01   8.98112E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    33        0   4.74570E-01   3.24104E-01   1.70010E-01   2.13441E-01   1.74879E-01   2.96079E-01   2.50000E-01   4.00000E+00
+
+   3    32         Iterations   :   3
+   3    32         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    34   0        4.69678E-01   3.23221E-01
+   3    34   1        4.70856E-01   3.23549E-01
+   3    34   2        4.70862E-01   3.23550E-01
+   3    34   3        4.70862E-01   3.23550E-01
+
+   3    34         Fold Function:   9.27669E-02
+   3    34         BP   Function:  -1.30841E+01
+   3    34         Cusp Function:  -1.90018E-01
+   3    34         BT   Function:  -9.18021E-01
+   3    34         Hopf Function:  -9.49066E-01
+
+   3    34         Eigenvalues  :   Stable:   3
+   3    34         Eigenvalue  1:   1.74495E-10   0.00000E+00
+   3    34         Eigenvalue  2:  -9.49066E-01  -9.12742E-01
+   3    34         Eigenvalue  3:  -9.49066E-01   9.12742E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    34        0   4.70862E-01   3.23550E-01   1.75934E-01   2.06488E-01   1.76337E-01   2.94254E-01   2.50000E-01   4.00000E+00
+
+   3    33         Iterations   :   3
+   3    33         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    35   0        4.67154E-01   3.23260E-01
+   3    35   1        4.68284E-01   3.23585E-01
+   3    35   2        4.68288E-01   3.23585E-01
+   3    35   3        4.68288E-01   3.23585E-01
+
+   3    35         Fold Function:   5.95688E-02
+   3    35         BP   Function:  -1.31712E+01
+   3    35         Cusp Function:  -1.25312E-01
+   3    35         BT   Function:  -9.24542E-01
+   3    35         Hopf Function:  -9.42901E-01
+
+   3    35         Eigenvalues  :   Stable:   3
+   3    35         Eigenvalue  1:  -1.18265E-11   0.00000E+00
+   3    35         Eigenvalue  2:  -9.42901E-01  -9.28712E-01
+   3    35         Eigenvalue  3:  -9.42901E-01   9.28712E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    35        0   4.68288E-01   3.23585E-01   1.82099E-01   1.99753E-01   1.77893E-01   2.92955E-01   2.50000E-01   4.00000E+00
+
+   3    34         Iterations   :   3
+   3    34         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    36   0        4.65714E-01   3.23885E-01
+   3    36   1        4.66801E-01   3.24207E-01
+   3    36   2        4.66804E-01   3.24206E-01
+   3    36   3        4.66804E-01   3.24206E-01
+
+   3    36         Fold Function:   2.79396E-02
+   3    36         BP   Function:  -1.32867E+01
+   3    36         Cusp Function:  -6.02305E-02
+   3    36         BT   Function:  -9.30342E-01
+   3    36         Hopf Function:  -9.36488E-01
+
+   3    36         Eigenvalues  :   Stable:   3
+   3    36         Eigenvalue  1:   6.25761E-11   0.00000E+00
+   3    36         Eigenvalue  2:  -9.36488E-01  -9.46036E-01
+   3    36         Eigenvalue  3:  -9.36488E-01   9.46036E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    36        0   4.66804E-01   3.24206E-01   1.88512E-01   1.93224E-01   1.79547E-01   2.92187E-01   2.50000E-01   4.00000E+00
+
+   3    35         Iterations   :   3
+   3    35         Next Step    :  -3.37500E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    37   0        4.65319E-01   3.25092E-01
+   3    37   1        4.66367E-01   3.25413E-01
+   3    37   2        4.66368E-01   3.25411E-01
+   3    37   3        4.66368E-01   3.25411E-01
+
+   3    37         Fold Function:  -2.45592E-03
+ ==> Location of special point :  Iteration   0  Step size =   2.72696E-03
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    37   0        4.66403E-01   3.25304E-01
+   3    37   1        4.66365E-01   3.25292E-01
+   3    37   2        4.66365E-01   3.25292E-01
+
+   3    37         Fold Function:  -1.87468E-05
+ ==> Location of special point :  Convergence.   Step size =   2.09615E-05
+   3    37         BP   Function:  -1.34270E+01
+   3    37         Cusp Function:  -3.86934E-04
+   3    37         BT   Function:  -9.35047E-01
+   3    37         Hopf Function:  -9.30366E-01
+
+   3    37         Eigenvalues  :   Stable:   3
+   3    37         Eigenvalue  1:  -3.02321E-10   0.00000E+00
+   3    37         Eigenvalue  2:  -9.30366E-01  -9.63171E-01
+   3    37         Eigenvalue  3:  -9.30366E-01   9.63171E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    37  LP   13   4.66365E-01   3.25292E-01   1.94634E-01   1.87395E-01   1.81152E-01   2.91954E-01   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    38   0        4.66400E-01   3.26886E-01
+   3    38   1        4.66862E-01   3.27033E-01
+   3    38   2        4.66862E-01   3.27032E-01
+   3    38   3        4.66862E-01   3.27032E-01
+
+   3    38         Fold Function:  -2.94811E-02
+   3    38         BP   Function:  -1.35735E+01
+   3    38         Cusp Function:   6.45280E-02
+ ==> Location of special point :  Iteration   0  Step size =   3.35488E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    38   0        4.66368E-01   3.25302E-01
+   3    38   1        4.66365E-01   3.25301E-01
+   3    38   2        4.66365E-01   3.25301E-01
+
+   3    38         Cusp Function:   3.35316E-05
+ ==> Location of special point :  Convergence.   Step size =   1.60500E-05
+   3    38         BT   Function:  -9.35076E-01
+   3    38         Hopf Function:  -9.30326E-01
+
+   3    38         Eigenvalues  :   Stable:   3
+   3    38         Eigenvalue  1:   2.14517E-11   0.00000E+00
+   3    38         Eigenvalue  2:  -9.30326E-01  -9.63286E-01
+   3    38         Eigenvalue  3:  -9.30326E-01   9.63286E-01
+   3    38         Fold Function:   1.12277E-04
+   3    38         BP   Function:  -1.34229E+01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    38  CP   14   4.66365E-01   3.25301E-01   1.94674E-01   1.87358E-01   1.81162E-01   2.91954E-01   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    39   0        4.66865E-01   3.27043E-01
+   3    39   1        4.66868E-01   3.27044E-01
+   3    39   2        4.66868E-01   3.27044E-01
+
+   3    39         Fold Function:  -2.96818E-02
+ ==> Location of special point :  Iteration   0  Step size =   3.36228E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    39   0        4.66367E-01   3.25307E-01
+   3    39   1        4.66365E-01   3.25306E-01
+   3    39   2        4.66365E-01   3.25306E-01
+
+   3    39         Fold Function:  -2.57794E-04
+ ==> Location of special point :  Convergence.   Step size =   8.86664E-05
+   3    39         BP   Function:  -1.34197E+01
+   3    39         Cusp Function:   2.79739E-04
+   3    39         BT   Function:  -9.35094E-01
+   3    39         Hopf Function:  -9.30300E-01
+
+   3    39         Eigenvalues  :   Stable:   3
+   3    39         Eigenvalue  1:   1.25350E-10   0.00000E+00
+   3    39         Eigenvalue  2:  -9.30300E-01  -9.63359E-01
+   3    39         Eigenvalue  3:  -9.30300E-01   9.63359E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    39  LP   15   4.66365E-01   3.25306E-01   1.94700E-01   1.87334E-01   1.81169E-01   2.91954E-01   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    40   0        4.66870E-01   3.27051E-01
+   3    40   1        4.66872E-01   3.27052E-01
+   3    40   2        4.66872E-01   3.27052E-01
+
+   3    40         Fold Function:  -2.98209E-02
+   3    40         BP   Function:  -1.35707E+01
+   3    40         Cusp Function:   6.51556E-02
+   3    40         BT   Function:  -9.39543E-01
+   3    40         Hopf Function:  -9.23384E-01
+
+   3    40         Eigenvalues  :   Stable:   3
+   3    40         Eigenvalue  1:  -6.49633E-11   0.00000E+00
+   3    40         Eigenvalue  2:  -9.23384E-01  -9.83354E-01
+   3    40         Eigenvalue  3:  -9.23384E-01   9.83354E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    40       16   4.66872E-01   3.27052E-01   2.01616E-01   1.81171E-01   1.83005E-01   2.92231E-01   2.50000E-01   4.00000E+00
+
+   3    39         Iterations   :   2
+   3    39         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    41   0        4.67632E-01   3.30160E-01
+   3    41   1        4.69477E-01   3.30768E-01
+   3    41   2        4.69472E-01   3.30760E-01
+   3    41   3        4.69472E-01   3.30760E-01
+
+   3    41         Fold Function:  -7.24836E-02
+   3    41         BP   Function:  -1.38366E+01
+   3    41         Cusp Function:   1.61285E-01
+   3    41         BT   Function:  -9.44970E-01
+   3    41         Hopf Function:  -9.12485E-01
+
+   3    41         Eigenvalues  :   Stable:   3
+   3    41         Eigenvalue  1:  -7.99208E-12   0.00000E+00
+   3    41         Eigenvalue  2:  -9.12485E-01  -1.01603E+00
+   3    41         Eigenvalue  3:  -9.12485E-01   1.01603E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    41        0   4.69472E-01   3.30760E-01   2.12515E-01   1.72246E-01   1.85932E-01   2.93694E-01   2.50000E-01   4.00000E+00
+
+   3    40         Iterations   :   3
+   3    40         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    42   0        4.72073E-01   3.35045E-01
+   3    42   1        4.74227E-01   3.35791E-01
+   3    42   2        4.74213E-01   3.35774E-01
+   3    42   3        4.74213E-01   3.35774E-01
+
+   3    42         Fold Function:  -1.14487E-01
+   3    42         BP   Function:  -1.41556E+01
+   3    42         Cusp Function:   2.54968E-01
+   3    42         BT   Function:  -9.48989E-01
+   3    42         Hopf Function:  -9.00925E-01
+
+   3    42         Eigenvalues  :   Stable:   3
+   3    42         Eigenvalue  1:   3.22668E-11   0.00000E+00
+   3    42         Eigenvalue  2:  -9.00925E-01  -1.05204E+00
+   3    42         Eigenvalue  3:  -9.00925E-01   1.05204E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    42        0   4.74213E-01   3.35774E-01   2.24075E-01   1.63673E-01   1.89065E-01   2.96457E-01   2.50000E-01   4.00000E+00
+
+   3    41         Iterations   :   3
+   3    41         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    43   0        4.78953E-01   3.41350E-01
+   3    43   1        4.81061E-01   3.42121E-01
+   3    43   2        4.81038E-01   3.42098E-01
+   3    43   3        4.81037E-01   3.42098E-01
+
+   3    43         Fold Function:  -1.55263E-01
+   3    43         BP   Function:  -1.45312E+01
+   3    43         Cusp Function:   3.45068E-01
+   3    43         BT   Function:  -9.51714E-01
+   3    43         Hopf Function:  -8.88659E-01
+
+   3    43         Eigenvalues  :   Stable:   3
+   3    43         Eigenvalue  1:  -7.61476E-12   0.00000E+00
+   3    43         Eigenvalue  2:  -8.88659E-01  -1.09149E+00
+   3    43         Eigenvalue  3:  -8.88659E-01   1.09149E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    43        0   4.81037E-01   3.42098E-01   2.36341E-01   1.55421E-01   1.92402E-01   3.00578E-01   2.50000E-01   4.00000E+00
+
+   3    42         Iterations   :   3
+   3    42         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    44   0        4.87862E-01   3.48967E-01
+   3    44   1        4.89943E-01   3.49768E-01
+   3    44   2        4.89910E-01   3.49739E-01
+   3    44   3        4.89910E-01   3.49739E-01
+
+   3    44         Fold Function:  -1.95178E-01
+   3    44         BP   Function:  -1.49744E+01
+   3    44         Cusp Function:   4.30781E-01
+   3    44         BT   Function:  -9.53273E-01
+   3    44         Hopf Function:  -8.75642E-01
+
+   3    44         Eigenvalues  :   Stable:   3
+   3    44         Eigenvalue  1:   1.04029E-11   0.00000E+00
+   3    44         Eigenvalue  2:  -8.75642E-01  -1.13454E+00
+   3    44         Eigenvalue  3:  -8.75642E-01   1.13454E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    44        0   4.89910E-01   3.49739E-01   2.49358E-01   1.47461E-01   1.95942E-01   3.06129E-01   2.50000E-01   4.00000E+00
+
+   3    43         Iterations   :   3
+   3    43         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    45   0        4.98782E-01   3.57903E-01
+   3    45   1        5.00848E-01   3.58737E-01
+   3    45   2        5.00807E-01   3.58703E-01
+   3    45   3        5.00807E-01   3.58703E-01
+
+   3    45         Fold Function:  -2.34953E-01
+   3    45         BP   Function:  -1.54842E+01
+   3    45         Cusp Function:   5.10798E-01
+   3    45         BT   Function:  -9.53810E-01
+   3    45         Hopf Function:  -8.61831E-01
+
+   3    45         Eigenvalues  :   Stable:   3
+   3    45         Eigenvalue  1:  -4.06963E-11   0.00000E+00
+   3    45         Eigenvalue  2:  -8.61831E-01  -1.18133E+00
+   3    45         Eigenvalue  3:  -8.61831E-01   1.18133E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    45        0   5.00807E-01   3.58703E-01   2.63169E-01   1.39770E-01   1.99684E-01   3.13190E-01   2.50000E-01   4.00000E+00
+
+   3    44         Iterations   :   3
+   3    44         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    46   0        5.11704E-01   3.68165E-01
+   3    46   1        5.13763E-01   3.69031E-01
+   3    46   2        5.13711E-01   3.68990E-01
+   3    46   3        5.13711E-01   3.68990E-01
+
+   3    46         Fold Function:  -2.74536E-01
+   3    46         BP   Function:  -1.60941E+01
+   3    46         Cusp Function:   5.84605E-01
+   3    46         BT   Function:  -9.53482E-01
+   3    46         Hopf Function:  -8.47190E-01
+
+   3    46         Eigenvalues  :   Stable:   3
+   3    46         Eigenvalue  1:  -1.68120E-10   0.00000E+00
+   3    46         Eigenvalue  2:  -8.47190E-01  -1.23196E+00
+   3    46         Eigenvalue  3:  -8.47190E-01   1.23196E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    46        0   5.13711E-01   3.68990E-01   2.77810E-01   1.32335E-01   2.03624E-01   3.21846E-01   2.50000E-01   4.00000E+00
+
+   3    45         Iterations   :   3
+   3    45         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    47   0        5.26616E-01   3.79750E-01
+   3    47   1        5.28661E-01   3.80641E-01
+   3    47   2        5.28601E-01   3.80594E-01
+   3    47   3        5.28600E-01   3.80594E-01
+
+   3    47         Fold Function:  -3.13192E-01
+   3    47         BP   Function:  -1.68271E+01
+   3    47         Cusp Function:   6.50918E-01
+   3    47         BT   Function:  -9.52449E-01
+   3    47         Hopf Function:  -8.31695E-01
+
+   3    47         Eigenvalues  :   Stable:   3
+   3    47         Eigenvalue  1:  -2.97417E-11   0.00000E+00
+   3    47         Eigenvalue  2:  -8.31695E-01  -1.28652E+00
+   3    47         Eigenvalue  3:  -8.31695E-01   1.28652E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    47        0   5.28600E-01   3.80594E-01   2.93305E-01   1.25144E-01   2.07757E-01   3.32183E-01   2.50000E-01   4.00000E+00
+
+   3    46         Iterations   :   3
+   3    46         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    48   0        5.43489E-01   3.92641E-01
+   3    48   1        5.45507E-01   3.93542E-01
+   3    48   2        5.45437E-01   3.93490E-01
+   3    48   3        5.45437E-01   3.93490E-01
+
+   3    48         Fold Function:  -3.51485E-01
+   3    48         BP   Function:  -1.77131E+01
+   3    48         Cusp Function:   7.09713E-01
+   3    48         BT   Function:  -9.50880E-01
+   3    48         Hopf Function:  -8.15339E-01
+
+   3    48         Eigenvalues  :   Stable:   3
+   3    48         Eigenvalue  1:  -1.71025E-10   0.00000E+00
+   3    48         Eigenvalue  2:  -8.15339E-01  -1.34502E+00
+   3    48         Eigenvalue  3:  -8.15339E-01   1.34502E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    48        0   5.45437E-01   3.93490E-01   3.09661E-01   1.18194E-01   2.12071E-01   3.44275E-01   2.50000E-01   4.00000E+00
+
+   3    47         Iterations   :   3
+   3    47         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    49   0        5.62274E-01   4.06799E-01
+   3    49   1        5.64236E-01   4.07690E-01
+   3    49   2        5.64160E-01   4.07633E-01
+   3    49   3        5.64159E-01   4.07633E-01
+
+   3    49         Fold Function:  -3.87832E-01
+   3    49         BP   Function:  -1.87500E+01
+   3    49         Cusp Function:   7.60138E-01
+   3    49         BT   Function:  -9.48937E-01
+   3    49         Hopf Function:  -7.98135E-01
+
+   3    49         Eigenvalues  :   Stable:   3
+   3    49         Eigenvalue  1:  -9.30081E-11   0.00000E+00
+   3    49         Eigenvalue  2:  -7.98135E-01  -1.40739E+00
+   3    49         Eigenvalue  3:  -7.98135E-01   1.40739E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    49        0   5.64159E-01   4.07633E-01   3.26865E-01   1.11489E-01   2.16550E-01   3.58177E-01   2.50000E-01   4.00000E+00
+
+   3    48         Iterations   :   3
+   3    48         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    50   0        5.82882E-01   4.22157E-01
+   3    50   1        5.84756E-01   4.23013E-01
+   3    50   2        5.84674E-01   4.22953E-01
+   3    50   3        5.84674E-01   4.22953E-01
+
+   3    50         Fold Function:  -4.21766E-01
+   3    50         BP   Function:  -2.00034E+01
+   3    50         Cusp Function:   8.02432E-01
+   3    50         BT   Function:  -9.46776E-01
+   3    50         Hopf Function:  -7.80123E-01
+
+   3    50         Eigenvalues  :   Stable:   3
+   3    50         Eigenvalue  1:  -1.27960E-10   0.00000E+00
+   3    50         Eigenvalue  2:  -7.80123E-01  -1.47346E+00
+   3    50         Eigenvalue  3:  -7.80123E-01   1.47346E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    50        0   5.84674E-01   4.22953E-01   3.44877E-01   1.05034E-01   2.21172E-01   3.73919E-01   2.50000E-01   4.00000E+00
+
+   3    49         Iterations   :   3
+   3    49         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    51   0        6.05189E-01   4.38622E-01
+   3    51   1        6.06938E-01   4.39417E-01
+   3    51   2        6.06853E-01   4.39356E-01
+   3    51   3        6.06853E-01   4.39356E-01
+
+   3    51         Fold Function:  -4.53324E-01
+   3    51         BP   Function:  -2.14948E+01
+   3    51         Cusp Function:   8.36662E-01
+   3    51         BT   Function:  -9.44536E-01
+   3    51         Hopf Function:  -7.61368E-01
+
+   3    51         Eigenvalues  :   Stable:   3
+   3    51         Eigenvalue  1:  -6.49033E-11   0.00000E+00
+   3    51         Eigenvalue  2:  -7.61368E-01  -1.54296E+00
+   3    51         Eigenvalue  3:  -7.61368E-01   1.54296E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    51        0   6.06853E-01   4.39356E-01   3.63632E-01   9.88384E-02   2.25912E-01   3.91493E-01   2.50000E-01   4.00000E+00
+
+   3    50         Iterations   :   3
+   3    50         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    52   0        6.29031E-01   4.56073E-01
+   3    52   1        6.30619E-01   4.56784E-01
+   3    52   2        6.30535E-01   4.56724E-01
+   3    52   3        6.30535E-01   4.56723E-01
+
+   3    52         Fold Function:  -4.81349E-01
+   3    52         BP   Function:  -2.32550E+01
+   3    52         Cusp Function:   8.63303E-01
+   3    52         BT   Function:  -9.42331E-01
+   3    52         Hopf Function:  -7.41954E-01
+
+   3    52         Eigenvalues  :   Stable:   3
+   3    52         Eigenvalue  1:   4.57994E-12   0.00000E+00
+   3    52         Eigenvalue  2:  -7.41954E-01  -1.61553E+00
+   3    52         Eigenvalue  3:  -7.41954E-01   1.61553E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    52        0   6.30535E-01   4.56723E-01   3.83046E-01   9.29100E-02   2.30738E-01   4.10854E-01   2.50000E-01   4.00000E+00
+
+   3    51         Iterations   :   3
+   3    51         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    53   0        6.54218E-01   4.74373E-01
+   3    53   1        6.55618E-01   4.74981E-01
+   3    53   2        6.55539E-01   4.74924E-01
+   3    53   3        6.55538E-01   4.74924E-01
+
+   3    53         Fold Function:  -5.05201E-01
+   3    53         BP   Function:  -2.53106E+01
+   3    53         Cusp Function:   8.82691E-01
+   3    53         BT   Function:  -9.40253E-01
+   3    53         Hopf Function:  -7.21983E-01
+
+   3    53         Eigenvalues  :   Stable:   3
+   3    53         Eigenvalue  1:   1.16236E-10   0.00000E+00
+   3    53         Eigenvalue  2:  -7.21983E-01  -1.69075E+00
+   3    53         Eigenvalue  3:  -7.21983E-01   1.69075E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    53        0   6.55538E-01   4.74924E-01   4.03017E-01   8.72552E-02   2.35620E-01   4.31926E-01   2.50000E-01   4.00000E+00
+
+   3    52         Iterations   :   3
+   3    52         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    54   0        6.80542E-01   4.93375E-01
+   3    54   1        6.81740E-01   4.93871E-01
+   3    54   2        6.81667E-01   4.93819E-01
+   3    54   3        6.81667E-01   4.93819E-01
+
+   3    54         Fold Function:  -5.25835E-01
+   3    54         BP   Function:  -2.76695E+01
+   3    54         Cusp Function:   8.95885E-01
+   3    54         BT   Function:  -9.38363E-01
+   3    54         Hopf Function:  -7.01561E-01
+
+   3    54         Eigenvalues  :   Stable:   3
+   3    54         Eigenvalue  1:   5.34571E-11   0.00000E+00
+   3    54         Eigenvalue  2:  -7.01561E-01  -1.76817E+00
+   3    54         Eigenvalue  3:  -7.01561E-01   1.76817E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    54        0   6.81667E-01   4.93819E-01   4.23439E-01   8.18763E-02   2.40527E-01   4.54601E-01   2.50000E-01   4.00000E+00
+
+   3    53         Iterations   :   3
+   3    53         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    55   0        7.07795E-01   5.12935E-01
+   3    55   1        7.08790E-01   5.13318E-01
+   3    55   2        7.08726E-01   5.13273E-01
+   3    55   3        7.08726E-01   5.13273E-01
+
+   3    55         Fold Function:  -5.42464E-01
+   3    55         BP   Function:  -3.03664E+01
+   3    55         Cusp Function:   9.03578E-01
+   3    55         BT   Function:  -9.36700E-01
+   3    55         Hopf Function:  -6.80794E-01
+
+   3    55         Eigenvalues  :   Stable:   3
+   3    55         Eigenvalue  1:   6.82320E-12   0.00000E+00
+   3    55         Eigenvalue  2:  -6.80794E-01  -1.84734E+00
+   3    55         Eigenvalue  3:  -6.80794E-01   1.84734E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    55        0   7.08726E-01   5.13273E-01   4.44206E-01   7.67713E-02   2.45431E-01   4.78756E-01   2.50000E-01   4.00000E+00
+
+   3    54         Iterations   :   3
+   3    54         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    56   0        7.35785E-01   5.32919E-01
+   3    56   1        7.36587E-01   5.33196E-01
+   3    56   2        7.36532E-01   5.33157E-01
+   3    56   3        7.36532E-01   5.33157E-01
+
+   3    56         Fold Function:  -5.55250E-01
+   3    56         BP   Function:  -3.34119E+01
+   3    56         Cusp Function:   9.06684E-01
+   3    56         BT   Function:  -9.35279E-01
+   3    56         Hopf Function:  -6.59781E-01
+
+   3    56         Eigenvalues  :   Stable:   3
+   3    56         Eigenvalue  1:   1.89660E-11   0.00000E+00
+   3    56         Eigenvalue  2:  -6.59781E-01  -1.92784E+00
+   3    56         Eigenvalue  3:  -6.59781E-01   1.92784E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    56        0   7.36532E-01   5.33157E-01   4.65219E-01   7.19337E-02   2.50307E-01   5.04259E-01   2.50000E-01   4.00000E+00
+
+   3    55         Iterations   :   3
+   3    55         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    57   0        7.64337E-01   5.53211E-01
+   3    57   1        7.64964E-01   5.53393E-01
+   3    57   2        7.64918E-01   5.53361E-01
+   3    57   3        7.64918E-01   5.53361E-01
+
+   3    57         Fold Function:  -5.65387E-01
+   3    57         BP   Function:  -3.68029E+01
+   3    57         Cusp Function:   9.05989E-01
+   3    57         BT   Function:  -9.34102E-01
+   3    57         Hopf Function:  -6.38608E-01
+
+   3    57         Eigenvalues  :   Stable:   3
+   3    57         Eigenvalue  1:  -1.60914E-10   0.00000E+00
+   3    57         Eigenvalue  2:  -6.38608E-01  -2.00930E+00
+   3    57         Eigenvalue  3:  -6.38608E-01   2.00930E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    57        0   7.64918E-01   5.53361E-01   4.86392E-01   6.73534E-02   2.55137E-01   5.30980E-01   2.50000E-01   4.00000E+00
+
+   3    56         Iterations   :   3
+   3    56         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    58   0        7.93305E-01   5.73712E-01
+   3    58   1        7.93780E-01   5.73815E-01
+   3    58   2        7.93742E-01   5.73788E-01
+   3    58   3        7.93742E-01   5.73788E-01
+
+   3    58         Fold Function:  -5.72816E-01
+   3    58         BP   Function:  -4.05694E+01
+   3    58         Cusp Function:   9.02229E-01
+   3    58         BT   Function:  -9.33157E-01
+   3    58         Hopf Function:  -6.17348E-01
+
+   3    58         Eigenvalues  :   Stable:   3
+   3    58         Eigenvalue  1:   9.28574E-11   0.00000E+00
+   3    58         Eigenvalue  2:  -6.17348E-01  -2.09138E+00
+   3    58         Eigenvalue  3:  -6.17348E-01   2.09138E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    58        0   7.93742E-01   5.73788E-01   5.07652E-01   6.30177E-02   2.59906E-01   5.58794E-01   2.50000E-01   4.00000E+00
+
+   3    57         Iterations   :   3
+   3    57         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    59   0        8.22566E-01   5.94344E-01
+   3    59   1        8.22912E-01   5.94380E-01
+   3    59   2        8.22881E-01   5.94359E-01
+   3    59   3        8.22881E-01   5.94359E-01
+
+   3    59         Fold Function:  -5.78000E-01
+   3    59         BP   Function:  -4.46719E+01
+   3    59         Cusp Function:   8.96044E-01
+   3    59         BT   Function:  -9.32429E-01
+   3    59         Hopf Function:  -5.96060E-01
+
+   3    59         Eigenvalues  :   Stable:   3
+   3    59         Eigenvalue  1:  -2.08302E-10   0.00000E+00
+   3    59         Eigenvalue  2:  -5.96060E-01  -2.17383E+00
+   3    59         Eigenvalue  3:  -5.96060E-01   2.17383E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    59        0   8.22881E-01   5.94359E-01   5.28940E-01   5.89120E-02   2.64603E-01   5.87587E-01   2.50000E-01   4.00000E+00
+
+   3    58         Iterations   :   3
+   3    58         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    60   0        8.52020E-01   6.15042E-01
+   3    60   1        8.52260E-01   6.15026E-01
+   3    60   2        8.52235E-01   6.15009E-01
+   3    60   3        8.52235E-01   6.15009E-01
+
+   3    60         Fold Function:  -5.81359E-01
+   3    60         BP   Function:  -4.91324E+01
+   3    60         Cusp Function:   8.87980E-01
+   3    60         BT   Function:  -9.31895E-01
+   3    60         Hopf Function:  -5.74792E-01
+
+   3    60         Eigenvalues  :   Stable:   3
+   3    60         Eigenvalue  1:  -3.15106E-11   0.00000E+00
+   3    60         Eigenvalue  2:  -5.74792E-01  -2.25644E+00
+   3    60         Eigenvalue  3:  -5.74792E-01   2.25644E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    60       17   8.52235E-01   6.15009E-01   5.50208E-01   5.50213E-02   2.69220E-01   6.17256E-01   2.50000E-01   4.00000E+00
+
+   3    59         Iterations   :   3
+   3    59         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    61   0        8.81589E-01   6.35757E-01
+   3    61   1        8.81742E-01   6.35700E-01
+   3    61   2        8.81722E-01   6.35686E-01
+   3    61   3        8.81722E-01   6.35686E-01
+
+   3    61         Fold Function:  -5.83336E-01
+   3    61         BP   Function:  -5.39618E+01
+   3    61         Cusp Function:   8.78488E-01
+   3    61         BT   Function:  -9.31533E-01
+   3    61         Hopf Function:  -5.53579E-01
+
+   3    61         Eigenvalues  :   Stable:   3
+   3    61         Eigenvalue  1:   1.76225E-12   0.00000E+00
+   3    61         Eigenvalue  2:  -5.53579E-01  -2.33902E+00
+   3    61         Eigenvalue  3:  -5.53579E-01   2.33902E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    61        0   8.81722E-01   6.35686E-01   5.71421E-01   5.13302E-02   2.73753E-01   6.47711E-01   2.50000E-01   4.00000E+00
+
+   3    60         Iterations   :   3
+   3    60         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    62   0        9.11210E-01   6.56450E-01
+   3    62   1        9.11294E-01   6.56363E-01
+   3    62   2        9.11278E-01   6.56352E-01
+   3    62   3        9.11278E-01   6.56352E-01
+
+   3    62         Fold Function:  -5.84209E-01
+   3    62         BP   Function:  -5.91596E+01
+   3    62         Cusp Function:   8.67937E-01
+   3    62         BT   Function:  -9.31323E-01
+   3    62         Hopf Function:  -5.32450E-01
+
+   3    62         Eigenvalues  :   Stable:   3
+   3    62         Eigenvalue  1:  -9.87104E-11   0.00000E+00
+   3    62         Eigenvalue  2:  -5.32450E-01  -2.42146E+00
+   3    62         Eigenvalue  3:  -5.32450E-01   2.42146E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    62        0   9.11278E-01   6.56352E-01   5.92550E-01   4.78239E-02   2.78199E-01   6.78874E-01   2.50000E-01   4.00000E+00
+
+   3    61         Iterations   :   3
+   3    61         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    63   0        9.40834E-01   6.77093E-01
+   3    63   1        9.40864E-01   6.76983E-01
+   3    63   2        9.40851E-01   6.76974E-01
+   3    63   3        9.40851E-01   6.76974E-01
+
+   3    63         Fold Function:  -5.83996E-01
+   3    63         BP   Function:  -6.47164E+01
+   3    63         Cusp Function:   8.56627E-01
+   3    63         BT   Function:  -9.31244E-01
+   3    63         Hopf Function:  -5.11424E-01
+
+   3    63         Eigenvalues  :   Stable:   3
+   3    63         Eigenvalue  1:   6.03126E-11   0.00000E+00
+   3    63         Eigenvalue  2:  -5.11424E-01  -2.50364E+00
+   3    63         Eigenvalue  3:  -5.11424E-01   2.50364E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    63        0   9.40851E-01   6.76974E-01   6.13576E-01   4.44883E-02   2.82559E-01   7.10677E-01   2.50000E-01   4.00000E+00
+
+   3    62         Iterations   :   3
+   3    62         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    64   0        9.70424E-01   6.97664E-01
+   3    64   1        9.70410E-01   6.97537E-01
+   3    64   2        9.70400E-01   6.97530E-01
+   3    64   3        9.70400E-01   6.97530E-01
+
+   3    64         Fold Function:  -5.83190E-01
+   3    64         BP   Function:  -7.06271E+01
+   3    64         Cusp Function:   8.44798E-01
+   3    64         BT   Function:  -9.31277E-01
+   3    64         Hopf Function:  -4.90517E-01
+
+   3    64         Eigenvalues  :   Stable:   3
+   3    64         Eigenvalue  1:  -4.13469E-11   0.00000E+00
+   3    64         Eigenvalue  2:  -4.90517E-01  -2.58550E+00
+   3    64         Eigenvalue  3:  -4.90517E-01   2.58550E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    64        0   9.70400E-01   6.97530E-01   6.34483E-01   4.13100E-02   2.86832E-01   7.43060E-01   2.50000E-01   4.00000E+00
+
+   3    63         Iterations   :   3
+   3    63         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    65   0        9.99949E-01   7.18146E-01
+   3    65   1        9.99902E-01   7.18007E-01
+   3    65   2        9.99893E-01   7.18002E-01
+   3    65   3        9.99893E-01   7.18002E-01
+
+   3    65         Fold Function:  -5.81815E-01
+   3    65         BP   Function:  -7.69034E+01
+   3    65         Cusp Function:   8.32638E-01
+   3    65         BT   Function:  -9.31405E-01
+   3    65         Hopf Function:  -4.69738E-01
+
+   3    65         Eigenvalues  :   Stable:   3
+   3    65         Eigenvalue  1:  -1.15692E-11   0.00000E+00
+   3    65         Eigenvalue  2:  -4.69738E-01  -2.66698E+00
+   3    65         Eigenvalue  3:  -4.69738E-01   2.66698E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    65        0   9.99893E-01   7.18002E-01   6.55262E-01   3.82769E-02   2.91020E-01   7.75973E-01   2.50000E-01   4.00000E+00
+
+   3    64         Iterations   :   3
+   3    64         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    66   0        1.02939E+00   7.38527E-01
+   3    66   1        1.02931E+00   7.38380E-01
+   3    66   2        1.02931E+00   7.38376E-01
+   3    66   3        1.02931E+00   7.38376E-01
+
+   3    66         Fold Function:  -5.80078E-01
+   3    66         BP   Function:  -8.35702E+01
+   3    66         Cusp Function:   8.20296E-01
+   3    66         BT   Function:  -9.31615E-01
+   3    66         Hopf Function:  -4.49094E-01
+
+   3    66         Eigenvalues  :   Stable:   3
+   3    66         Eigenvalue  1:   2.55762E-11   0.00000E+00
+   3    66         Eigenvalue  2:  -4.49094E-01  -2.74803E+00
+   3    66         Eigenvalue  3:  -4.49094E-01   2.74803E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    66        0   1.02931E+00   7.38376E-01   6.75906E-01   3.53777E-02   2.95124E-01   8.09371E-01   2.50000E-01   4.00000E+00
+
+   3    65         Iterations   :   3
+   3    65         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    67   0        1.05872E+00   7.58798E-01
+   3    67   1        1.05863E+00   7.58647E-01
+   3    67   2        1.05862E+00   7.58643E-01
+   3    67   3        1.05862E+00   7.58643E-01
+
+   3    67         Fold Function:  -5.77926E-01
+   3    67         BP   Function:  -9.06173E+01
+   3    67         Cusp Function:   8.07889E-01
+   3    67         BT   Function:  -9.31892E-01
+   3    67         Hopf Function:  -4.28590E-01
+
+   3    67         Eigenvalues  :   Stable:   3
+   3    67         Eigenvalue  1:  -7.98344E-11   0.00000E+00
+   3    67         Eigenvalue  2:  -4.28590E-01  -2.82863E+00
+   3    67         Eigenvalue  3:  -4.28590E-01   2.82863E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    67        0   1.05862E+00   7.58643E-01   6.96410E-01   3.26023E-02   2.99148E-01   8.43216E-01   2.50000E-01   4.00000E+00
+
+   3    66         Iterations   :   3
+   3    66         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    68   0        1.08793E+00   7.78953E-01
+   3    68   1        1.08782E+00   7.78800E-01
+   3    68   2        1.08782E+00   7.78797E-01
+   3    68   3        1.08782E+00   7.78797E-01
+
+   3    68         Fold Function:  -5.75490E-01
+   3    68         BP   Function:  -9.79358E+01
+   3    68         Cusp Function:   7.95507E-01
+   3    68         BT   Function:  -9.32225E-01
+   3    68         Hopf Function:  -4.08228E-01
+
+   3    68         Eigenvalues  :   Stable:   3
+   3    68         Eigenvalue  1:  -9.40572E-11   0.00000E+00
+   3    68         Eigenvalue  2:  -4.08228E-01  -2.90876E+00
+   3    68         Eigenvalue  3:  -4.08228E-01   2.90876E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    68        0   1.08782E+00   7.78797E-01   7.16772E-01   2.99413E-02   3.03093E-01   8.77474E-01   2.50000E-01   4.00000E+00
+
+   3    67         Iterations   :   3
+   3    67         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    69   0        1.11702E+00   7.98989E-01
+   3    69   1        1.11690E+00   7.98835E-01
+   3    69   2        1.11689E+00   7.98832E-01
+   3    69   3        1.11689E+00   7.98832E-01
+
+   3    69         Fold Function:  -5.73031E-01
+   3    69         BP   Function:  -1.05680E+02
+   3    69         Cusp Function:   7.83224E-01
+   3    69         BT   Function:  -9.32606E-01
+   3    69         Hopf Function:  -3.88008E-01
+
+   3    69         Eigenvalues  :   Stable:   3
+   3    69         Eigenvalue  1:  -1.04635E-10   0.00000E+00
+   3    69         Eigenvalue  2:  -3.88008E-01  -2.98841E+00
+   3    69         Eigenvalue  3:  -3.88008E-01   2.98841E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    69        0   1.11689E+00   7.98832E-01   7.36992E-01   2.73861E-02   3.06962E-01   9.12116E-01   2.50000E-01   4.00000E+00
+
+   3    68         Iterations   :   3
+   3    68         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    70   0        1.14597E+00   8.18903E-01
+   3    70   1        1.14584E+00   8.18748E-01
+   3    70   2        1.14584E+00   8.18746E-01
+   3    70   3        1.14584E+00   8.18746E-01
+
+   3    70         Fold Function:  -5.70330E-01
+   3    70         BP   Function:  -1.13789E+02
+   3    70         Cusp Function:   7.71087E-01
+   3    70         BT   Function:  -9.33026E-01
+   3    70         Hopf Function:  -3.67931E-01
+
+   3    70         Eigenvalues  :   Stable:   3
+   3    70         Eigenvalue  1:   6.56134E-11   0.00000E+00
+   3    70         Eigenvalue  2:  -3.67931E-01  -3.06756E+00
+   3    70         Eigenvalue  3:  -3.67931E-01   3.06756E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    70        0   1.14584E+00   8.18746E-01   7.57069E-01   2.49293E-02   3.10758E-01   9.47116E-01   2.50000E-01   4.00000E+00
+
+   3    69         Iterations   :   3
+   3    69         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    71   0        1.17478E+00   8.38692E-01
+   3    71   1        1.17464E+00   8.38539E-01
+   3    71   2        1.17464E+00   8.38537E-01
+   3    71   3        1.17464E+00   8.38537E-01
+
+   3    71         Fold Function:  -5.67523E-01
+   3    71         BP   Function:  -1.22250E+02
+   3    71         Cusp Function:   7.59138E-01
+   3    71         BT   Function:  -9.33477E-01
+   3    71         Hopf Function:  -3.47995E-01
+
+   3    71         Eigenvalues  :   Stable:   3
+   3    71         Eigenvalue  1:  -8.91520E-11   0.00000E+00
+   3    71         Eigenvalue  2:  -3.47995E-01  -3.14622E+00
+   3    71         Eigenvalue  3:  -3.47995E-01   3.14622E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    71        0   1.17464E+00   8.38537E-01   7.77005E-01   2.25636E-02   3.14483E-01   9.82451E-01   2.50000E-01   4.00000E+00
+
+   3    70         Iterations   :   3
+   3    70         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    72   0        1.20344E+00   8.58358E-01
+   3    72   1        1.20330E+00   8.58207E-01
+   3    72   2        1.20330E+00   8.58205E-01
+   3    72   3        1.20330E+00   8.58205E-01
+
+   3    72         Fold Function:  -5.64712E-01
+   3    72         BP   Function:  -1.31155E+02
+   3    72         Cusp Function:   7.47409E-01
+   3    72         BT   Function:  -9.33954E-01
+   3    72         Hopf Function:  -3.28199E-01
+
+   3    72         Eigenvalues  :   Stable:   3
+   3    72         Eigenvalue  1:  -1.89676E-10   0.00000E+00
+   3    72         Eigenvalue  2:  -3.28199E-01  -3.22439E+00
+   3    72         Eigenvalue  3:  -3.28199E-01   3.22439E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    72        0   1.20330E+00   8.58205E-01   7.96801E-01   2.02830E-02   3.18140E-01   1.01810E+00   2.50000E-01   4.00000E+00
+
+   3    71         Iterations   :   3
+   3    71         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    73   0        1.23196E+00   8.77900E-01
+   3    73   1        1.23182E+00   8.77750E-01
+   3    73   2        1.23181E+00   8.77749E-01
+   3    73   3        1.23181E+00   8.77749E-01
+
+   3    73         Fold Function:  -5.61759E-01
+   3    73         BP   Function:  -1.40458E+02
+   3    73         Cusp Function:   7.35918E-01
+   3    73         BT   Function:  -9.34452E-01
+   3    73         Hopf Function:  -3.08541E-01
+
+   3    73         Eigenvalues  :   Stable:   3
+   3    73         Eigenvalue  1:   1.53960E-11   0.00000E+00
+   3    73         Eigenvalue  2:  -3.08541E-01  -3.30206E+00
+   3    73         Eigenvalue  3:  -3.08541E-01   3.30206E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    73        0   1.23181E+00   8.77749E-01   8.16459E-01   1.80815E-02   3.21732E-01   1.05404E+00   2.50000E-01   4.00000E+00
+
+   3    72         Iterations   :   3
+   3    72         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    74   0        1.26033E+00   8.97318E-01
+   3    74   1        1.26018E+00   8.97171E-01
+   3    74   2        1.26018E+00   8.97170E-01
+   3    74   3        1.26018E+00   8.97170E-01
+
+   3    74         Fold Function:  -5.58872E-01
+   3    74         BP   Function:  -1.49888E+02
+   3    74         Cusp Function:   7.24680E-01
+   3    74         BT   Function:  -9.34966E-01
+   3    74         Hopf Function:  -2.89019E-01
+
+   3    74         Eigenvalues  :   Stable:   3
+   3    74         Eigenvalue  1:  -4.51120E-11   0.00000E+00
+   3    74         Eigenvalue  2:  -2.89019E-01  -3.37925E+00
+   3    74         Eigenvalue  3:  -2.89019E-01   3.37925E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    74        0   1.26018E+00   8.97170E-01   8.35981E-01   1.59540E-02   3.25261E-01   1.09027E+00   2.50000E-01   4.00000E+00
+
+   3    73         Iterations   :   3
+   3    73         Next Step    :  -5.06250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    75   0        1.28855E+00   9.16614E-01
+   3    75   1        1.28840E+00   9.16471E-01
+   3    75   2        1.28840E+00   9.16470E-01
+
+   3    75         Fold Function:  -5.55932E-01
+   3    75         BP   Function:  -1.59935E+02
+   3    75         Cusp Function:   7.11686E-01
+   3    75         BT   Function:  -9.35491E-01
+   3    75         Hopf Function:  -2.69629E-01
+
+   3    75         Eigenvalues  :   Stable:   3
+   3    75         Eigenvalue  1:  -8.88923E-10   0.00000E+00
+   3    75         Eigenvalue  2:  -2.69629E-01  -3.45595E+00
+   3    75         Eigenvalue  3:  -2.69629E-01   3.45595E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    75        0   1.28840E+00   9.16470E-01   8.55371E-01   1.38956E-02   3.28730E-01   1.12675E+00   2.50000E-01   4.00000E+00
+
+   3    74         Iterations   :   2
+   3    74         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    76   0        1.33072E+00   9.45458E-01
+   3    76   1        1.33045E+00   9.45196E-01
+   3    76   2        1.33045E+00   9.45194E-01
+   3    76   3        1.33045E+00   9.45194E-01
+
+   3    76         Fold Function:  -5.51433E-01
+   3    76         BP   Function:  -1.75512E+02
+   3    76         Cusp Function:   6.97746E-01
+   3    76         BT   Function:  -9.36296E-01
+   3    76         Hopf Function:  -2.40787E-01
+
+   3    76         Eigenvalues  :   Stable:   3
+   3    76         Eigenvalue  1:  -1.71816E-10   0.00000E+00
+   3    76         Eigenvalue  2:  -2.40787E-01  -3.57012E+00
+   3    76         Eigenvalue  3:  -2.40787E-01   3.57012E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    76        0   1.33045E+00   9.45194E-01   8.84213E-01   1.09285E-02   3.33824E-01   1.18195E+00   2.50000E-01   4.00000E+00
+
+   3    75         Iterations   :   3
+   3    75         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    77   0        1.37249E+00   9.73960E-01
+   3    77   1        1.37216E+00   9.73654E-01
+   3    77   2        1.37216E+00   9.73652E-01
+   3    77   3        1.37216E+00   9.73652E-01
+
+   3    77         Fold Function:  -5.47109E-01
+   3    77         BP   Function:  -1.92101E+02
+   3    77         Cusp Function:   6.82396E-01
+   3    77         BT   Function:  -9.37113E-01
+   3    77         Hopf Function:  -2.12229E-01
+
+   3    77         Eigenvalues  :   Stable:   3
+   3    77         Eigenvalue  1:   1.21133E-10   0.00000E+00
+   3    77         Eigenvalue  2:  -2.12229E-01  -3.68324E+00
+   3    77         Eigenvalue  3:  -2.12229E-01   3.68324E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    77        0   1.37216E+00   9.73652E-01   9.12771E-01   8.09423E-03   3.38795E-01   1.23767E+00   2.50000E-01   4.00000E+00
+
+   3    76         Iterations   :   3
+   3    76         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    78   0        1.41388E+00   1.00215E+00
+   3    78   1        1.41355E+00   1.00185E+00
+   3    78   2        1.41355E+00   1.00185E+00
+   3    78   3        1.41355E+00   1.00185E+00
+
+   3    78         Fold Function:  -5.42863E-01
+   3    78         BP   Function:  -2.09442E+02
+   3    78         Cusp Function:   6.67648E-01
+   3    78         BT   Function:  -9.37934E-01
+   3    78         Hopf Function:  -1.83945E-01
+
+   3    78         Eigenvalues  :   Stable:   3
+   3    78         Eigenvalue  1:  -1.27021E-10   0.00000E+00
+   3    78         Eigenvalue  2:  -1.83945E-01  -3.79535E+00
+   3    78         Eigenvalue  3:  -1.83945E-01   3.79535E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    78        0   1.41355E+00   1.00185E+00   9.41055E-01   5.38133E-03   3.43648E-01   1.29388E+00   2.50000E-01   4.00000E+00
+
+   3    77         Iterations   :   3
+   3    77         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    79   0        1.45493E+00   1.03009E+00
+   3    79   1        1.45461E+00   1.02980E+00
+   3    79   2        1.45461E+00   1.02980E+00
+   3    79   3        1.45461E+00   1.02980E+00
+
+   3    79         Fold Function:  -5.38582E-01
+   3    79         BP   Function:  -2.27610E+02
+   3    79         Cusp Function:   6.53489E-01
+   3    79         BT   Function:  -9.38755E-01
+   3    79         Hopf Function:  -1.55927E-01
+
+   3    79         Eigenvalues  :   Stable:   3
+   3    79         Eigenvalue  1:   4.06647E-12   0.00000E+00
+   3    79         Eigenvalue  2:  -1.55927E-01  -3.90647E+00
+   3    79         Eigenvalue  3:  -1.55927E-01   3.90647E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    79        0   1.45461E+00   1.02980E+00   9.69073E-01   2.77966E-03   3.48391E-01   1.35055E+00   2.50000E-01   4.00000E+00
+
+   3    78         Iterations   :   3
+   3    78         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    80   0        1.49567E+00   1.05778E+00
+   3    80   1        1.49535E+00   1.05750E+00
+   3    80   2        1.49535E+00   1.05750E+00
+   3    80   3        1.49535E+00   1.05750E+00
+
+   3    80         Fold Function:  -5.34433E-01
+   3    80         BP   Function:  -2.46699E+02
+   3    80         Cusp Function:   6.39899E-01
+   3    80         BT   Function:  -9.39571E-01
+   3    80         Hopf Function:  -1.28165E-01
+
+   3    80         Eigenvalues  :   Stable:   3
+   3    80         Eigenvalue  1:   1.26323E-10   0.00000E+00
+   3    80         Eigenvalue  2:  -1.28165E-01  -4.01663E+00
+   3    80         Eigenvalue  3:  -1.28165E-01   4.01663E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    80       18   1.49535E+00   1.05750E+00   9.96835E-01   2.80254E-04   3.53028E-01   1.40764E+00   2.50000E-01   4.00000E+00
+
+   3    79         Iterations   :   3
+   3    79         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    81   0        1.53609E+00   1.08523E+00
+   3    81   1        1.53578E+00   1.08497E+00
+   3    81   2        1.53578E+00   1.08496E+00
+   3    81   3        1.53578E+00   1.08496E+00
+
+   3    81         Fold Function:  -5.30384E-01
+   3    81         BP   Function:  -2.66525E+02
+   3    81         Cusp Function:   6.26861E-01
+   3    81         BT   Function:  -9.40378E-01
+   3    81         Hopf Function:  -1.00651E-01
+
+   3    81         Eigenvalues  :   Stable:   3
+   3    81         Eigenvalue  1:   7.25127E-12   0.00000E+00
+   3    81         Eigenvalue  2:  -1.00651E-01  -4.12585E+00
+   3    81         Eigenvalue  3:  -1.00651E-01   4.12585E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    81        0   1.53578E+00   1.08496E+00   1.02435E+00  -2.12484E-03   3.57566E-01   1.46514E+00   2.50000E-01   4.00000E+00
+
+   3    80         Iterations   :   3
+   3    80         Next Step    :  -7.59375E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    82   0        1.57621E+00   1.11245E+00
+   3    82   1        1.57591E+00   1.11220E+00
+   3    82   2        1.57591E+00   1.11220E+00
+
+   3    82         Fold Function:  -5.26402E-01
+   3    82         BP   Function:  -2.87364E+02
+   3    82         Cusp Function:   6.12848E-01
+   3    82         BT   Function:  -9.41175E-01
+   3    82         Hopf Function:  -7.33764E-02
+
+   3    82         Eigenvalues  :   Stable:   3
+   3    82         Eigenvalue  1:   3.07619E-10   0.00000E+00
+   3    82         Eigenvalue  2:  -7.33764E-02  -4.23417E+00
+   3    82         Eigenvalue  3:  -7.33764E-02   4.23417E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    82        0   1.57591E+00   1.11220E+00   1.05162E+00  -4.44271E-03   3.62010E-01   1.52302E+00   2.50000E-01   4.00000E+00
+
+   3    81         Iterations   :   2
+   3    81         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    83   0        1.62875E+00   1.14810E+00
+   3    83   1        1.62829E+00   1.14772E+00
+   3    83   2        1.62829E+00   1.14772E+00
+   3    83   3        1.62829E+00   1.14772E+00
+
+   3    83         Fold Function:  -5.21348E-01
+   3    83         BP   Function:  -3.16440E+02
+   3    83         Cusp Function:   5.98639E-01
+   3    83         BT   Function:  -9.42206E-01
+   3    83         Hopf Function:  -3.78107E-02
+
+   3    83         Eigenvalues  :   Stable:   3
+   3    83         Eigenvalue  1:  -3.01411E-11   0.00000E+00
+   3    83         Eigenvalue  2:  -3.78107E-02  -4.37548E+00
+   3    83         Eigenvalue  3:  -3.78107E-02   4.37548E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    83        0   1.62829E+00   1.14772E+00   1.08719E+00  -7.37258E-03   3.67724E-01   1.59978E+00   2.50000E-01   4.00000E+00
+
+   3    82         Iterations   :   3
+   3    82         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    84   0        1.68067E+00   1.18328E+00
+   3    84   1        1.68017E+00   1.18287E+00
+   3    84   2        1.68017E+00   1.18286E+00
+   3    84   3        1.68017E+00   1.18286E+00
+
+   3    84         Fold Function:  -5.16349E-01
+   3    84         BP   Function:  -3.46703E+02
+   3    84         Cusp Function:   5.83748E-01
+   3    84         BT   Function:  -9.43212E-01
+   3    84         Hopf Function:  -2.62942E-03
+
+   3    84         Eigenvalues  :   Stable:   3
+   3    84         Eigenvalue  1:   3.14480E-11   0.00000E+00
+   3    84         Eigenvalue  2:  -2.62942E-03  -4.51532E+00
+   3    84         Eigenvalue  3:  -2.62942E-03   4.51532E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    84        0   1.68017E+00   1.18286E+00   1.12237E+00  -1.01749E-02   3.73292E-01   1.67713E+00   2.50000E-01   4.00000E+00
+
+   3    83         Iterations   :   3
+   3    83         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    85   0        1.73205E+00   1.21804E+00
+   3    85   1        1.73157E+00   1.21765E+00
+   3    85   2        1.73157E+00   1.21765E+00
+   3    85   3        1.73157E+00   1.21765E+00
+
+   3    85         Fold Function:  -5.11580E-01
+   3    85         BP   Function:  -3.78350E+02
+   3    85         Cusp Function:   5.69623E-01
+   3    85         BT   Function:  -9.44191E-01
+   3    85         Hopf Function:   3.21836E-02
+
+   3    85         Eigenvalues  :   Stable:   1
+   3    85         Eigenvalue  1:   3.21836E-02  -4.65376E+00
+   3    85         Eigenvalue  2:   3.21836E-02   4.65376E+00
+   3    85         Eigenvalue  3:  -1.13311E-10   0.00000E+00
+ ==> Location of special point :  Iteration   0  Step size =   9.24470E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    85   0        1.68405E+00   1.18549E+00
+   3    85   1        1.68407E+00   1.18550E+00
+   3    85   2        1.68407E+00   1.18550E+00
+
+   3    85         Hopf Function:   1.26772E-05
+
+   3    85         Eigenvalues  :   Stable:   1
+   3    85         Eigenvalue  1:   1.26772E-05  -4.52583E+00
+   3    85         Eigenvalue  2:   1.26772E-05   4.52583E+00
+   3    85         Eigenvalue  3:   9.31845E-13   0.00000E+00
+ ==> Location of special point :  Convergence.   Step size =   3.62546E-05
+   3    85         Fold Function:  -5.16010E-01
+   3    85         BP   Function:  -3.48917E+02
+   3    85         Cusp Function:   5.82654E-01
+   3    85         BT   Function:  -9.43287E-01
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    85  ZH   19   1.68407E+00   1.18550E+00   1.12501E+00  -1.03817E-02   3.73707E-01   1.68300E+00   2.50000E-01   4.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    86   0        1.73545E+00   1.22028E+00
+   3    86   1        1.73543E+00   1.22026E+00
+   3    86   2        1.73543E+00   1.22026E+00
+
+   3    86         Fold Function:  -5.11195E-01
+   3    86         BP   Function:  -3.81083E+02
+   3    86         Cusp Function:   5.68585E-01
+   3    86         BT   Function:  -9.44264E-01
+   3    86         Hopf Function:   3.47985E-02
+
+   3    86         Eigenvalues  :   Stable:   1
+   3    86         Eigenvalue  1:   3.47985E-02  -4.66416E+00
+   3    86         Eigenvalue  2:   3.47985E-02   4.66416E+00
+   3    86         Eigenvalue  3:   1.31750E-10   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    86        0   1.73543E+00   1.22026E+00   1.15980E+00  -1.30591E-02   3.79127E-01   1.76093E+00   2.50000E-01   4.00000E+00
+
+   3    85         Iterations   :   2
+   3    85         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    87   0        1.78679E+00   1.25505E+00
+   3    87   1        1.78632E+00   1.25468E+00
+   3    87   2        1.78632E+00   1.25468E+00
+   3    87   3        1.78632E+00   1.25468E+00
+
+   3    87         Fold Function:  -5.06565E-01
+   3    87         BP   Function:  -4.14561E+02
+   3    87         Cusp Function:   5.55230E-01
+   3    87         BT   Function:  -9.45215E-01
+   3    87         Hopf Function:   6.92323E-02
+
+   3    87         Eigenvalues  :   Stable:   1
+   3    87         Eigenvalue  1:   6.92323E-02  -4.80114E+00
+   3    87         Eigenvalue  2:   6.92323E-02   4.80114E+00
+   3    87         Eigenvalue  3:  -1.31678E-10   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    87        0   1.78632E+00   1.25468E+00   1.19423E+00  -1.56306E-02   3.84418E-01   1.83937E+00   2.50000E-01   4.00000E+00
+
+   3    86         Iterations   :   3
+   3    86         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    88   0        1.83721E+00   1.28912E+00
+   3    88   1        1.83675E+00   1.28876E+00
+   3    88   2        1.83675E+00   1.28876E+00
+
+   3    88         Fold Function:  -5.02073E-01
+   3    88         BP   Function:  -4.49545E+02
+   3    88         Cusp Function:   5.41023E-01
+   3    88         BT   Function:  -9.46137E-01
+   3    88         Hopf Function:   1.03328E-01
+
+   3    88         Eigenvalues  :   Stable:   1
+   3    88         Eigenvalue  1:   1.03328E-01  -4.93681E+00
+   3    88         Eigenvalue  2:   1.03328E-01   4.93681E+00
+   3    88         Eigenvalue  3:   7.28733E-11   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    88        0   1.83675E+00   1.28876E+00   1.22833E+00  -1.81046E-02   3.89587E-01   1.91829E+00   2.50000E-01   4.00000E+00
+
+   3    87         Iterations   :   2
+   3    87         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    89   0        1.88718E+00   1.32286E+00
+   3    89   1        1.88674E+00   1.32252E+00
+   3    89   2        1.88674E+00   1.32252E+00
+
+   3    89         Fold Function:  -4.97779E-01
+   3    89         BP   Function:  -4.86610E+02
+   3    89         Cusp Function:   5.29401E-01
+   3    89         BT   Function:  -9.47031E-01
+   3    89         Hopf Function:   1.37098E-01
+
+   3    89         Eigenvalues  :   Stable:   1
+   3    89         Eigenvalue  1:   1.37098E-01  -5.07124E+00
+   3    89         Eigenvalue  2:   1.37098E-01   5.07124E+00
+   3    89         Eigenvalue  3:  -2.34267E-10   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    89        0   1.88674E+00   1.32252E+00   1.26210E+00  -2.04886E-02   3.94640E-01   1.99767E+00   2.50000E-01   4.00000E+00
+
+   3    88         Iterations   :   2
+   3    88         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    90   0        1.93673E+00   1.35630E+00
+   3    90   1        1.93631E+00   1.35597E+00
+   3    90   2        1.93631E+00   1.35597E+00
+
+   3    90         Fold Function:  -4.93506E-01
+   3    90         BP   Function:  -5.24538E+02
+   3    90         Cusp Function:   5.18199E-01
+   3    90         BT   Function:  -9.47898E-01
+   3    90         Hopf Function:   1.70556E-01
+
+   3    90         Eigenvalues  :   Stable:   1
+   3    90         Eigenvalue  1:   1.70556E-01  -5.20445E+00
+   3    90         Eigenvalue  2:   1.70556E-01   5.20445E+00
+   3    90         Eigenvalue  3:   3.38464E-10   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    90        0   1.93631E+00   1.35597E+00   1.29556E+00  -2.27894E-02   3.99585E-01   2.07747E+00   2.50000E-01   4.00000E+00
+
+   3    89         Iterations   :   2
+   3    89         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    91   0        1.98587E+00   1.38944E+00
+   3    91   1        1.98546E+00   1.38912E+00
+   3    91   2        1.98546E+00   1.38912E+00
+
+   3    91         Fold Function:  -4.89480E-01
+   3    91         BP   Function:  -5.64054E+02
+   3    91         Cusp Function:   5.07417E-01
+   3    91         BT   Function:  -9.48737E-01
+   3    91         Hopf Function:   2.03713E-01
+
+   3    91         Eigenvalues  :   Stable:   1
+   3    91         Eigenvalue  1:   2.03713E-01  -5.33650E+00
+   3    91         Eigenvalue  2:   2.03713E-01   5.33650E+00
+   3    91         Eigenvalue  3:   2.32526E-10   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    91        0   1.98546E+00   1.38912E+00   1.32871E+00  -2.50129E-02   4.04426E-01   2.15768E+00   2.50000E-01   4.00000E+00
+
+   3    90         Iterations   :   2
+   3    90         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    92   0        2.03461E+00   1.42230E+00
+   3    92   1        2.03421E+00   1.42199E+00
+   3    92   2        2.03420E+00   1.42199E+00
+
+ ==> Location of special point :  Iteration   0  Step size =   7.01646E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   3    92   0        2.00000E+00   1.39893E+00
+   3    92   1        2.00004E+00   1.39896E+00
+   3    92   2        2.00004E+00   1.39896E+00
+
+ ==> Location of special point :  Convergence.   Step size =   8.49313E-05
+   3    92         Fold Function:  -4.88339E-01
+   3    92         BP   Function:  -5.75672E+02
+   3    92         Cusp Function:   5.04865E-01
+   3    92         BT   Function:  -9.48982E-01
+   3    92         Hopf Function:   2.13548E-01
+
+   3    92         Eigenvalues  :   Stable:   1
+   3    92         Eigenvalue  1:   2.13548E-01  -5.37567E+00
+   3    92         Eigenvalue  2:   2.13548E-01   5.37567E+00
+   3    92         Eigenvalue  3:   7.82863E-11   0.00000E+00
+
+  BR    PT  TY  LAB       F1         L2-NORM          x             y             z             G1            a1            b1      
+   3    92  UZ   20   2.00004E+00   1.39896E+00   1.33855E+00  -2.56621E-02   4.05851E-01   2.18169E+00   2.50000E-01   4.00000E+00
+===============================================
+
+ Total Time    0.116E-01

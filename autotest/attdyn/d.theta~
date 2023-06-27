@@ -1,0 +1,366 @@
+   1     1         Hopf Function:  -5.00000E-02
+
+   1     1         Eigenvalues  :   Stable:   2
+   1     1         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     1         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     1         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     1  EP    1   3.00000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        3.10000E-01   0.00000E+00
+   1     2   1        3.10000E-01   0.00000E+00
+
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        3.20000E-01   0.00000E+00
+   1     2   1        3.20000E-01   0.00000E+00
+
+   1     2         Fold Function:   1.00000E+00
+   1     2         BP   Function:   1.80000E-04
+   1     2         Hopf Function:  -5.00000E-02
+
+   1     2         Eigenvalues  :   Stable:   2
+   1     2         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     2         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     2         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     2        0   3.20000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     1         Iterations   :   1
+   1     1         Next Step    :   2.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     3   0        3.40000E-01   0.00000E+00
+   1     3   1        3.40000E-01   0.00000E+00
+
+   1     3         Fold Function:   1.00000E+00
+   1     3         BP   Function:   1.80000E-04
+   1     3         Hopf Function:  -5.00000E-02
+
+   1     3         Eigenvalues  :   Stable:   2
+   1     3         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     3         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     3         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     3        0   3.40000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     2         Iterations   :   1
+   1     2         Next Step    :   4.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     4   0        3.80000E-01   0.00000E+00
+   1     4   1        3.80000E-01   0.00000E+00
+
+   1     4         Fold Function:   1.00000E+00
+   1     4         BP   Function:   1.80000E-04
+   1     4         Hopf Function:  -5.00000E-02
+
+   1     4         Eigenvalues  :   Stable:   2
+   1     4         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     4         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     4         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     4        0   3.80000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     3         Iterations   :   1
+   1     3         Next Step    :   8.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     5   0        4.60000E-01   0.00000E+00
+   1     5   1        4.60000E-01   0.00000E+00
+
+   1     5         Fold Function:   1.00000E+00
+   1     5         BP   Function:   1.80000E-04
+   1     5         Hopf Function:  -5.00000E-02
+
+   1     5         Eigenvalues  :   Stable:   2
+   1     5         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     5         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     5         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     5        0   4.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     4         Iterations   :   1
+   1     4         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     6   0        5.60000E-01   0.00000E+00
+   1     6   1        5.60000E-01   0.00000E+00
+
+   1     6         Fold Function:   1.00000E+00
+   1     6         BP   Function:   1.80000E-04
+   1     6         Hopf Function:  -5.00000E-02
+
+   1     6         Eigenvalues  :   Stable:   2
+   1     6         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     6         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     6         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     6        0   5.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     5         Iterations   :   1
+   1     5         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     7   0        6.60000E-01   0.00000E+00
+   1     7   1        6.60000E-01   0.00000E+00
+
+   1     7         Fold Function:   1.00000E+00
+   1     7         BP   Function:   1.80000E-04
+   1     7         Hopf Function:  -5.00000E-02
+
+   1     7         Eigenvalues  :   Stable:   2
+   1     7         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     7         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     7         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     7        0   6.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     6         Iterations   :   1
+   1     6         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     8   0        7.60000E-01   0.00000E+00
+   1     8   1        7.60000E-01   0.00000E+00
+
+   1     8         Fold Function:   1.00000E+00
+   1     8         BP   Function:   1.80000E-04
+   1     8         Hopf Function:  -5.00000E-02
+
+   1     8         Eigenvalues  :   Stable:   2
+   1     8         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     8         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     8         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     8        0   7.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     7         Iterations   :   1
+   1     7         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     9   0        8.60000E-01   0.00000E+00
+   1     9   1        8.60000E-01   0.00000E+00
+
+   1     9         Fold Function:   1.00000E+00
+   1     9         BP   Function:   1.80000E-04
+   1     9         Hopf Function:  -5.00000E-02
+
+   1     9         Eigenvalues  :   Stable:   2
+   1     9         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     9         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     9         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     9        0   8.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     8         Iterations   :   1
+   1     8         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    10   0        9.60000E-01   0.00000E+00
+   1    10   1        9.60000E-01   0.00000E+00
+
+   1    10         Fold Function:   1.00000E+00
+   1    10         BP   Function:   1.80000E-04
+   1    10         Hopf Function:  -5.00000E-02
+
+   1    10         Eigenvalues  :   Stable:   2
+   1    10         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1    10         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1    10         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1    10        0   9.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     9         Iterations   :   1
+   1     9         Next Step    :   1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    11   0        1.06000E+00   0.00000E+00
+   1    11   1        1.06000E+00   0.00000E+00
+
+ ==> Location of special point :  Iteration   0  Step size =  -6.00001E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    11   0        1.00000E+00   0.00000E+00
+   1    11   1        1.00000E+00   0.00000E+00
+
+ ==> Location of special point :  Convergence.   Step size =   6.00001E-09
+   1    11         Fold Function:   1.00000E+00
+   1    11         BP   Function:   1.80000E-04
+   1    11         Hopf Function:  -5.00000E-02
+
+   1    11         Eigenvalues  :   Stable:   2
+   1    11         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1    11         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1    11         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1    11  UZ    2   1.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+===============================================
+
+ Total Time    0.134E-02
+   1     1         Hopf Function:  -5.00000E-02
+
+   1     1         Eigenvalues  :   Stable:   2
+   1     1         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     1         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     1         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     1  EP    1   3.00000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        2.90000E-01   0.00000E+00
+   1     2   1        2.90000E-01   0.00000E+00
+
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        2.80000E-01   0.00000E+00
+   1     2   1        2.80000E-01   0.00000E+00
+
+   1     2         Fold Function:   1.00000E+00
+   1     2         BP   Function:   1.80000E-04
+   1     2         Hopf Function:  -5.00000E-02
+
+   1     2         Eigenvalues  :   Stable:   2
+   1     2         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     2         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     2         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     2        0   2.80000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     1         Iterations   :   1
+   1     1         Next Step    :  -2.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     3   0        2.60000E-01   0.00000E+00
+   1     3   1        2.60000E-01   0.00000E+00
+
+   1     3         Fold Function:   1.00000E+00
+   1     3         BP   Function:   1.80000E-04
+   1     3         Hopf Function:  -5.00000E-02
+
+   1     3         Eigenvalues  :   Stable:   2
+   1     3         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     3         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     3         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     3        0   2.60000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     2         Iterations   :   1
+   1     2         Next Step    :  -4.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     4   0        2.20000E-01   0.00000E+00
+   1     4   1        2.20000E-01   0.00000E+00
+
+   1     4         Fold Function:   1.00000E+00
+   1     4         BP   Function:   1.80000E-04
+   1     4         Hopf Function:  -5.00000E-02
+
+   1     4         Eigenvalues  :   Stable:   2
+   1     4         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     4         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     4         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     4        0   2.20000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     3         Iterations   :   1
+   1     3         Next Step    :  -8.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     5   0        1.40000E-01   0.00000E+00
+   1     5   1        1.40000E-01   0.00000E+00
+
+   1     5         Fold Function:   1.00000E+00
+   1     5         BP   Function:   1.80000E-04
+   1     5         Hopf Function:  -5.00000E-02
+
+   1     5         Eigenvalues  :   Stable:   2
+   1     5         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     5         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     5         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     5        0   1.40000E-01   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     4         Iterations   :   1
+   1     4         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     6   0        4.00000E-02   0.00000E+00
+   1     6   1        4.00000E-02   0.00000E+00
+
+   1     6         Fold Function:   1.00000E+00
+   1     6         BP   Function:   1.80000E-04
+   1     6         Hopf Function:  -5.00000E-02
+
+   1     6         Eigenvalues  :   Stable:   2
+   1     6         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     6         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     6         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     6        0   4.00000E-02   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+
+   1     5         Iterations   :   1
+   1     5         Next Step    :  -1.00000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     7   0       -6.00000E-02   0.00000E+00
+   1     7   1       -6.00000E-02   0.00000E+00
+
+ ==> Location of special point :  Iteration   0  Step size =   6.00000E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     7   0        6.00000E-09   0.00000E+00
+   1     7   1        6.00000E-09   0.00000E+00
+
+ ==> Location of special point :  Convergence.   Step size =  -6.00000E-09
+   1     7         Fold Function:   1.00000E+00
+   1     7         BP   Function:   1.80000E-04
+   1     7         Hopf Function:  -5.00000E-02
+
+   1     7         Eigenvalues  :   Stable:   2
+   1     7         Eigenvalue  1:   1.00000E-04   0.00000E+00
+   1     7         Eigenvalue  2:  -5.00000E-02   9.47365E-01
+   1     7         Eigenvalue  3:  -5.00000E-02  -9.47365E-01
+
+  BR    PT  TY  LAB     theta        L2-NORM          x             y             A       
+   1     7  UZ    2   6.00000E-09   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00
+===============================================
+
+ Total Time    0.177E-02
