@@ -1,4 +1,6 @@
-using DifferentialEquations, Plots, Polynomials; plotly()
+using DifferentialEquations, Plots, Polynomials
+gr()
+# plotly()
 
 function opinion!(du, u, p, t)
     a, b, c, d, α, ϵ, θ = p
@@ -21,7 +23,12 @@ p = [-1.1, -2.0, 1.0, 1.0, 1.0, 0.01, 0.3]
 u₀ = [0.0, 1.0, 1.0]
 
 prob = ODEProblem(opinion!, u₀, tspan, p)
-sol = solve(prob, AutoTsit5(Rosenbrock23()), reltol=1e-8, abstol=1e-8)
-# sol = solve(prob)
+# sol = solve(prob, AutoTsit5(Rosenbrock23()), reltol=1e-8, abstol=1e-8)
+sol = solve(prob)
 
-scene = plot(sol, idxs=(1, 2), title="u₀=[$(u₀[1]), $(u₀[2]), $(u₀[3])]", xlabel='x', ylabel='y', zlabel='A', size=(1000, 1000), lw=2)
+scene = plot(sol, idxs=(1, 2, 3), title="u₀=[$(u₀[1]), $(u₀[2]), $(u₀[3])]", xlabel='x', ylabel='y', zlabel='A', size=(1000, 1000), lw=2)
+# scene = plot(sol(0), idxs=(1, 2), title="u₀=[$(u₀[1]), $(u₀[2]), $(u₀[3])]", xlabel='x', ylabel='y', zlabel='A', size=(1000, 1000), lw=2)
+
+@gif for t_step in 1:0.1:20
+    plot(sol, idxs=(1, 2), lw=2, tspan=(0.0, t_step))
+end

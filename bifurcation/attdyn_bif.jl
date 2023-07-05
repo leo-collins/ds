@@ -41,8 +41,9 @@ end
 opinion(u, p) = opinion!(similar(u), u, p, 0)
 
 par = (a=-1.1, b=-2.0, c=1.0, d=1.0, α=1.0, ϵ=0.01, θ=0.4)
-# u₀ = equilibria(par)[1]
-u₀ = [0.0, 0.0, 1.0]
+u₀ = equilibria(par)[1]
+plot(u₀)
+# u₀ = [0.0, 0.0, 1.0]
 
 recordFromSolutionOp(x, p) = (X=x[1], Y=x[2], A=x[3])
 prob = BifurcationProblem(opinion, u₀, par, (@lens _.θ);
@@ -50,7 +51,7 @@ prob = BifurcationProblem(opinion, u₀, par, (@lens _.θ);
 
 opt_newton = NewtonPar(tol=1e-9, maxIter=200)
 
-opts_br = ContinuationPar(pMin=0.0, pMax=1.0, dsmin=0.002, dsmax=0.015, ds=0.01,
+opts_br = ContinuationPar(pMin=0.0, pMax=2.0, dsmin=0.002, dsmax=0.015, ds=0.01,
     nInversion=8, maxBisectionSteps=30, maxSteps=300, detectBifurcation=3, newtonOptions=opt_newton, nev=10)
 
 br = continuation(prob, PALC(), opts_br; bothside=true)
@@ -62,12 +63,12 @@ scene = plot(br, vars=(:param, :A))
 # plot(diagram, vars=(:param, :A))
 
 # automatic branch switching from Hopf point
-opt_po = NewtonPar(tol = 1e-10, maxIter = 100)
-opts_po_cont = ContinuationPar(dsmin = 0.005, dsmax = 0.04, ds = 0.01, pMax = 1.0, maxSteps = 200, newtonOptions = opt_po, nev = 11, tolStability = 1e-6,
-	detectBifurcation = 3, dsminBisection = 1e-6, maxBisectionSteps = 15, nInversion = 4)
+# opt_po = NewtonPar(tol = 1e-10, maxIter = 100)
+# opts_po_cont = ContinuationPar(dsmin = 0.005, dsmax = 0.04, ds = 0.01, pMax = 1.0, maxSteps = 2000, newtonOptions = opt_po, nev = 11, tolStability = 1e-6,
+# 	detectBifurcation = 3, dsminBisection = 1e-6, maxBisectionSteps = 15, nInversion = 4)
 
 # br_po = continuation(br, 2, opts_po_cont, PeriodicOrbitTrapProblem(M = 51); δp=0.01, ampfactor=1)
 # plot(br_po)
 
-diagram = bifurcationdiagram(prob, br, 3, (args...) -> setproperties(opts_po_cont))
-plot(diagram)
+# diagram = bifurcationdiagram(prob, br, 3, (args...) -> setproperties(opts_po_cont))
+# plot(diagram)
