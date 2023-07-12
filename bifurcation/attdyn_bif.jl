@@ -2,9 +2,9 @@ using BifurcationKit, Plots, LinearAlgebra, Polynomials, Setfield
 
 norminf(x) = norm(x, Inf)
 
-function equilibria(p)::Vector{Vector{Float64}}
+function equilibria(par)::Vector{Vector{Float64}}
     result = []
-    a, b, c, d, α, ϵ, θ = p
+    a, b, c, d, α, ϵ, θ = par
     # σₐ = (a*d - 2*b*c + 2*sqrt(b^2*c^2 - a*b*c*d)) / a^2
     σₐ = ((sqrt(a*d - b*c) - sqrt(-b*c))/a)^2
     σ = θ * σₐ
