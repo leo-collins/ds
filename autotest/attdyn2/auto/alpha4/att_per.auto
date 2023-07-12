@@ -1,0 +1,19 @@
+delete('att')
+cl()
+
+att=run(e='att_per',c='att_per.1a',DS='-')
+
+for sol in att('HB'):
+    att=att+run(sol,c='att_per.1b')
+
+att=att+run(e='att_per',c='att_per.1c',DS='-')
+att=att+run(e='att_per',c='att_per.1c')
+
+att=att+run(e='att_per',c='att_per.1c',DS='-',dat='p1bdata',PAR={1:0.83})
+att=att+run(e='att_per',c='att_per.1c',dat='p1bdata',PAR={1:0.83})
+
+att=rl(att)
+
+save(att,'att')
+
+plot(att)

@@ -1,0 +1,51 @@
+# Initial data
+# dat='p2a_alpha1_t049'
+# PAR={1:0.49}
+
+# Dimension of system
+NDIM=3
+# No boundary conditions
+NBC= 0
+# No integral conditions
+NINT= 0
+# Max parameter number
+NPAR= 3
+# No jacobian
+JAC= 0
+
+# Discretization mesh intervals
+NTST=  350
+# Number collocation points
+NCOL=   4
+# Mesh adaptation
+IAD =   3
+
+# Convergence criterion equation parameters
+EPSL= 1e-10
+# Convergence criterion solution
+EPSU = 1e-10
+# Convergence criterion arclength 
+EPSS = 1e-08
+
+# Continuation stepsizes
+DS  =   1E-3, DSMIN= 1E-8, DSMAX=   0.1, IADS=   1
+
+# Principal continuation parameter
+ICP =  [1,11]
+
+# Detect folds
+ILP =   1
+# Branch points and HB detected for algebraic
+ISP =   2
+# No branch switching
+ISW = 1
+# Sets solution restart label
+IRS =   0
+# Computation of periodic solutions
+IPS =   2
+# Print L2 norm
+IPLT= 0
+
+# Stopping condition
+# UZSTOP={1:0.2}
+# STOP=['HB1']

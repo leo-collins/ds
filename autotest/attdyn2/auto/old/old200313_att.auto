@@ -1,0 +1,109 @@
+delete('att')
+cl()
+
+# Detect HB
+att=run(e='att',c='att.1a',DS='-')
+
+# Continue HB branch
+for sol in att('HB'):
+    att=att+run(sol,c='att.1b')
+
+# fname=['p2a_alpha1_t049','p1a_alpha1_t044','p2b_alpha1_t04']
+# theta=[0.49,0.44,0.4]
+
+fname=['p1a_alpha1_t044','p1b_alpha1_t035','p1c_alpha1_t026','p1d_alpha1_t0175']
+theta=[0.44,0.35,0.26,0.175]
+
+for i in range(len(fname)):
+    print fname[i]
+    fw=run(e='att',c='att.1c',DS='-',dat=fname[i],PAR={1:theta[i]})
+    bw=run(e='att',c='att.1c',dat=fname[i],PAR={1:theta[i]})
+    att=att+merge(fw+bw)
+
+# Trying to follow period doublings but convergence issues!
+
+test=True
+count=0
+
+# Continue period doubling
+print "Period doubling"
+for sol in att('PD'):
+    test=1
+    count=1
+    pd=sol
+    while test:
+    	  print count
+    	  pd=run(pd,c='att.1c',ISW=-1,STOP='PD1')
+	  att=att+pd	  
+	  count+=1	  
+	  if len(pd('PD'))==0 or count>5:		
+	        print 'No period doubling'
+		test=False
+	  else:
+		pd=pd('PD1')
+
+
+
+
+
+
+# print "Period 2a solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p2a_alpha1_t049',PAR={1:0.49})
+# att=att+run(e='att',c='att.1c',dat='p2a_alpha1_t049',PAR={1:0.49})
+
+# print "Period 1a solution"
+# fw=run(e='att',c='att.1c',DS='-',dat='p1a_alpha1_t044',PAR={1:0.44})
+# bw=run(e='att',c='att.1c',dat='p1a_alpha1_t044',PAR={1:0.44})
+
+# both=fw+bw
+# merged=merge(both)
+# att=att+merge(fw+bw)
+
+# print "Period 2b solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p2b_alpha1_t04',PAR={1:0.4})
+# att=att+run(e='att',c='att.1c',dat='p2b_alpha1_t04',PAR={1:0.4})
+
+
+
+		
+# att=att+run(sol,c='att.1c',ISW=-1,STOP='LP1')
+
+
+# pd2=run(pd1('PD'),c='att.1c',ISW=-1,STOP='PD1',UZSTOP={})
+    
+
+
+# print "Period 1b solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p1b_alpha1_t035',PAR={1:0.35})
+# att=att+run(e='att',c='att.1c',dat='p1b_alpha1_t035',PAR={1:0.35})
+
+# print "Period 2c solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p2c_alpha1_t03',PAR={1:0.3})
+# att=att+run(e='att',c='att.1c',dat='p2c_alpha1_t03',PAR={1:0.3})
+
+# print "Period 1c solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p1c_alpha1_t026',PAR={1:0.26})
+# att=att+run(e='att',c='att.1c',dat='p1c_alpha1_t026',PAR={1:0.26})
+
+# print "Period 2d solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p2d_alpha1_t023',PAR={1:0.23},NTST=1000)
+# att=att+run(e='att',c='att.1c',dat='p2d_alpha1_t023',PAR={1:0.23},NTST=1000)
+
+# print "Period 1d solution"
+# att=att+run(e='att',c='att.1c',DS='-',dat='p1d_alpha1_t0175',PAR={1:0.175})
+# att=att+run(e='att',c='att.1c',dat='p1d_alpha1_t0175',PAR={1:0.175})
+
+# branchpoints = att("BP")
+# for solution in branchpoints:
+#     bp = load(solution, ISW=-1, NTST=350)
+#     fw = run(bp)
+#     bw = run(bp,DS='-')
+#     both = fw + bw
+#     merged = merge(both)
+#     att = att + merged
+
+att=rl(att)
+
+save(att,'att')
+
+plot(att)

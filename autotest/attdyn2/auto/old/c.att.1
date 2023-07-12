@@ -1,0 +1,47 @@
+# Dimension of system
+NDIM=3
+# No boundary conditions
+NBC= 0
+# No integral conditions
+NINT= 0
+# Max parameter number
+NPAR= 4
+# No jacobian
+JAC= 0
+
+# Discretization mesh intervals
+NTST=  50
+# Number collocation points
+NCOL=   4
+# Mesh adaptation
+IAD =   3
+
+# Convergence criterion equation parameters
+EPSL= 1e-07
+# Convergence criterion solution
+EPSU = 1e-07
+# Convergence criterion arclength 
+EPSS = 1e-05
+
+# Continuation stepsizes
+DS  =   0.1, DSMIN= 0.001, DSMAX=   0.2, IADS=   1
+
+# Principal continuation parameter
+ICP =  [3]
+
+# Detect folds
+ILP =   1
+# Branch points and HB detected for algebraic
+ISP =   1
+# No branch switching
+ISW = 1
+# Sets solution restart label
+IRS =   0
+# Stationary solution ODEs with hopf detection
+IPS =   1
+# Print L2 norm
+IPLT= 0
+
+# Stopping condition
+UZSTOP={3:10}
+# STOP=['HB1']

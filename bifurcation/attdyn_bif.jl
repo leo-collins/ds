@@ -5,9 +5,13 @@ norminf(x) = norm(x, Inf)
 function equilibria(p)::Vector{Vector{Float64}}
     result = []
     a, b, c, d, α, ϵ, θ = p
-    σₐ = (a*d - 2*b*c + 2*sqrt(b^2*c^2 - a*b*c*d)) / a^2
+    # σₐ = (a*d - 2*b*c + 2*sqrt(b^2*c^2 - a*b*c*d)) / a^2
+    σₐ = ((sqrt(a*d - b*c) - sqrt(-b*c))/a)^2
     σ = θ * σₐ
     D₁ = (σ * par.a + par.d) / 4 * σ
+
+    # println(σₐ)
+    # println(σₛ)
 
     a₁ = σ
     b₁ = ϵ - b*σ/ϵ
@@ -26,7 +30,8 @@ function opinion!(du, u, p, t)
     a, b, c, d, α, ϵ, θ = p
     x, y, A = u
 
-    σₐ = (a * d - 2 * b * c + 2 * sqrt(b^2 * c^2 - a * b * c * d)) / a^2
+    # σₐ = (a * d - 2 * b * c + 2 * sqrt(b^2 * c^2 - a * b * c * d)) / a^2
+    σₐ = ((sqrt(a*d - b*c) - sqrt(-b*c))/a)^2
     σ = θ * σₐ
 
     D₁ = (σ * a + d) / 4 * σ
@@ -40,18 +45,19 @@ end
 
 opinion(u, p) = opinion!(similar(u), u, p, 0)
 
-par = (a=-1.1, b=-2.0, c=1.0, d=1.0, α=1.0, ϵ=0.01, θ=0.4)
-u₀ = equilibria(par)[1]
-plot(u₀)
-# u₀ = [0.0, 0.0, 1.0]
+par = (a=-1.1, b=-2.0, c=1.0, d=1.0, α=1.0, ϵ=0.1, θ=0.95)
+# u₀ = equilibria(par)[1]
+# u₀ = [0.0, 0.0, 0.0]
+# u₀ = [0.1, -0.151173972786538, 0.795717305043761]
+println(u₀)
 
 recordFromSolutionOp(x, p) = (X=x[1], Y=x[2], A=x[3])
 prob = BifurcationProblem(opinion, u₀, par, (@lens _.θ);
     recordFromSolution=recordFromSolutionOp)
 
-opt_newton = NewtonPar(tol=1e-9, maxIter=200)
+opt_newton = NewtonPar(tol=1e-9, maxIter=2000)
 
-opts_br = ContinuationPar(pMin=0.0, pMax=2.0, dsmin=0.002, dsmax=0.015, ds=0.01,
+opts_br = ContinuationPar(pMin=0.0, pMax=1.0, dsmin=0.00001, dsmax=0.2, ds=0.001,
     nInversion=8, maxBisectionSteps=30, maxSteps=300, detectBifurcation=3, newtonOptions=opt_newton, nev=10)
 
 br = continuation(prob, PALC(), opts_br; bothside=true)

@@ -1,0 +1,8 @@
+delete('att')
+cl()
+
+att=run(e='att_theta',c='att_theta.1',DS='-')
+for sol in att('HB'):
+    att=att+run(sol,c='att_theta.2')
+
+plot(att)

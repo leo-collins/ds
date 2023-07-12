@@ -1,0 +1,65 @@
+delete('att')
+cl()
+
+# Detect HB
+att=run(e='att',c='att.1a',DS='-')
+
+# Continue HB branch
+for sol in att('HB'):
+    att=att+run(sol,c='att.1b')
+
+fname=['p2a_alpha1_t045','p1a_alpha1_t042']
+theta=[0.45,0.42]
+
+fname=['p2d_alpha1_t015']
+theta=[0.15]
+
+fname=['p2a_alpha1_t045','p1a_alpha1_t042','p2b_alpha1_t036','p1b_alpha1_t03','p2c_alpha1_t025','p1c_alpha1_t02','p2d_alpha1_t015']
+theta=[0.45,0.42,0.36,0.3,0.25,0.2,0.15]
+
+# fname=['p1a_alpha1_t044','p1b_alpha1_t035','p1c_alpha1_t026','p1d_alpha1_t0175']
+# theta=[0.44,0.35,0.26,0.175]
+
+# fname=['p2e_alpha1_t012']
+# theta=[0.12]
+
+# fname=['p2a_alpha1_t049','p1a_alpha1_t044','p2b_alpha1_t04','p1b_alpha1_t035','p2c_alpha1_t03','p1c_alpha1_t026','p2d_alpha1_t023','p1d_alpha1_t0175','p2e_alpha1_t012']
+# theta=[0.49,0.44,0.4,0.35,0.3,0.26,0.23,0.175,0.12]
+
+# fname=['p2a_alpha1_t049','p1a_alpha1_t044','p2b_alpha1_t04','p1b_alpha1_t035','p2c_alpha1_t03','p1c_alpha1_t026','p2d_alpha1_t023','p1d_alpha1_t0175','p2e_alpha1_t012']
+# theta=[0.49,0.44,0.4,0.35,0.3,0.26,0.23,0.175,0.12]
+
+# Loop through numerical initial data files and continue solutions
+for i in range(len(fname)):
+    print fname[i]
+    fw=run(e='att',c='att.1c',DS='-',dat=fname[i],PAR={1:theta[i]},NTST=1000)
+    bw=run(e='att',c='att.1c',dat=fname[i],PAR={1:theta[i]},NTST=1000)
+    att=att+merge(fw+bw)
+
+# Trying to follow period doublings but convergence issues!
+
+
+
+# Continue period doubling
+print "Period doubling"
+for sol in att('PD'):
+    test=False
+    count=1
+    pd=sol
+    while test:
+    	  print count
+    	  pd=run(pd,c='att.1c',ISW=-1,STOP='PD1',NTST=1000,DS=1E-3)
+	  att=att+pd	  
+	  count+=1	  
+	  if len(pd('PD'))==0 or count>3:		
+	        print 'No period doubling'
+		test=False
+	  else:
+		pd=pd('PD1')
+
+att=rl(att)
+
+save(att,'att')
+
+plot(att)
+# @pp att
